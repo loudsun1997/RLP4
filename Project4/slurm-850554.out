@@ -1,0 +1,961 @@
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+/home/meflores/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/utils/passive_env_checker.py:233: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(terminated, (bool, np.bool8)):
+Environment initialized: <OrderEnforcing<PassiveEnvChecker<AtariEnv<ALE/MsPacman-v5>>>>
+Action space: Discrete(9)
+Observation space: Box(0, 255, (210, 160, 3), uint8)
+Initial state: (array([[[  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0],
+        ...,
+        [  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0]],
+
+       [[228, 111, 111],
+        [228, 111, 111],
+        [228, 111, 111],
+        ...,
+        [228, 111, 111],
+        [228, 111, 111],
+        [228, 111, 111]],
+
+       [[228, 111, 111],
+        [228, 111, 111],
+        [228, 111, 111],
+        ...,
+        [228, 111, 111],
+        [228, 111, 111],
+        [228, 111, 111]],
+
+       ...,
+
+       [[  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0],
+        ...,
+        [  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0]],
+
+       [[  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0],
+        ...,
+        [  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0]],
+
+       [[  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0],
+        ...,
+        [  0,   0,   0],
+        [  0,   0,   0],
+        [  0,   0,   0]]], dtype=uint8), {'lives': 3, 'episode_frame_number': 0, 'frame_number': 0})
+Step 1: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 2: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 3: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 4: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 5: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 6: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 7: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 8: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 9: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 10: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 11: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 12: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 13: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 14: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 15: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 16: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 17: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 18: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 19: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 20: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 21: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 22: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 23: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 24: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 25: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 26: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 27: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 28: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 29: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 30: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 31: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 32: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 33: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 34: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 35: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 36: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 37: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 38: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 39: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 40: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 41: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 42: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 43: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 44: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 45: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 46: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 47: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 48: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 49: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 50: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 51: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 52: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 53: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 54: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 55: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 56: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 57: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 58: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 59: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 60: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 61: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 62: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 63: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 64: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 65: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 66: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 67: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 68: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 69: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 70: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 71: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 72: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 73: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 74: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 75: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 76: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 77: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 78: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 79: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 80: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 81: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 82: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 83: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 84: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 85: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 86: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 87: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 88: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 89: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 90: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 91: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 92: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 93: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 94: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 95: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 96: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 97: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 98: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 99: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 100: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 101: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 102: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 103: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 104: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 105: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 106: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 107: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 108: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 109: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 110: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 111: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 112: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 113: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 114: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 115: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 116: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 117: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 118: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 119: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 120: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 121: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 122: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 123: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 124: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 125: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 126: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 127: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 128: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 129: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 130: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 131: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 132: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 133: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 134: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 135: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 136: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 137: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 138: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 139: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 140: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 141: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 142: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 143: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 144: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 145: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 146: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 147: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 148: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 149: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 150: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 151: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 152: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 153: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 154: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 155: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 156: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 157: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 158: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 159: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 160: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 161: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 162: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 163: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 164: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 165: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 166: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 167: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 168: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 169: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 170: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 171: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 172: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 173: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 174: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 175: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 176: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 177: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 178: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 179: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 180: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 181: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 182: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 183: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 184: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 185: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 186: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 187: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 188: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 189: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 190: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 191: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 192: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 193: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 194: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 195: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 196: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 197: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 198: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 199: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 200: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 201: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 202: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 203: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 204: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 205: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 206: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 207: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 208: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 209: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 210: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 211: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 212: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 213: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 214: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 215: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 216: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 217: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 218: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 219: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 220: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 221: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 222: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 223: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 224: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 225: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 226: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 227: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 228: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 229: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 230: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 231: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 232: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 233: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 234: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 235: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 236: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 237: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 238: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 239: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 240: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 241: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 242: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 243: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 244: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 245: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 246: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 247: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 248: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 249: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 250: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 251: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 252: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 253: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 254: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 255: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 256: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 257: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 258: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 259: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 260: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 261: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 262: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 263: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 264: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 265: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 266: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 267: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 268: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 269: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 270: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 271: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 272: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 273: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 274: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 275: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 276: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 277: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 278: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 279: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 280: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 281: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 282: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 283: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 284: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 285: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 286: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 287: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 288: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 289: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 290: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 291: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 292: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 293: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 294: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 295: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 296: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 297: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 298: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 299: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 300: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 301: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 302: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 303: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 304: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 305: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 306: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 307: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 308: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 309: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 310: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 311: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 312: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 313: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 314: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 315: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 316: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 317: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 318: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 319: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 320: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 321: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 322: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 323: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 324: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 325: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 326: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 327: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 328: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 329: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 330: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 331: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 332: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 333: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 334: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 335: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 336: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 337: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 338: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 339: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 340: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 341: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 342: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 343: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 344: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 345: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 346: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 347: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 348: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 349: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 350: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 351: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 352: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 353: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 354: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 355: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 356: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 357: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 358: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 359: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 360: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 361: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 362: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 363: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 364: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 365: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 366: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 367: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 368: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 369: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 370: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 371: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 372: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 373: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 374: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 375: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 376: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 377: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 378: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 379: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 380: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 381: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 382: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 383: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 384: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 385: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 386: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 387: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 388: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 389: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 390: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 391: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 392: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 393: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 394: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 395: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 10.0 | Done: False
+Step 396: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 397: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 398: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 399: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 400: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 401: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 402: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 403: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 404: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 405: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 406: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 407: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 408: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 409: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 410: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 411: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 412: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 413: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 414: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 415: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 416: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 417: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 418: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 419: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 420: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 421: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 422: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 423: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 424: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 425: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 426: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 427: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 428: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 429: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 430: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 431: Action taken: 1
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 432: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 433: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 434: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 435: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 436: Action taken: 5
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 437: Action taken: 3
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 438: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 439: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 440: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 441: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 442: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 443: Action taken: 8
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 444: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 445: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 446: Action taken: 0
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 447: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 448: Action taken: 2
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 449: Action taken: 7
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 450: Action taken: 6
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: False
+Step 451: Action taken: 4
+New state shape: (210, 160, 3) | Reward: 0.0 | Done: True
+Episode finished.
+Total steps taken: 451
+Total reward accumulated: 250.0

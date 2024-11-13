@@ -1,0 +1,19 @@
+/cm/local/apps/slurm/var/spool/job851017/slurm_script: line 12: activate: No such file or directory
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+Traceback (most recent call last):
+  File "/home/meflores/Project4/main.py", line 47, in <module>
+    run(args, record_video=args.record_video)
+  File "/home/meflores/Project4/main.py", line 34, in run
+    agent = Agent_DQN(env, args)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/Project4/agent_dqn.py", line 26, in __init__
+    self.q_net = DQNModel(input_shape=(4, 84, 84), num_actions=env.action_space.n).to(self.device)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/Project4/dqn_model.py", line 18, in __init__
+    conv_output_size = self._get_conv_output(input_shape)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/Project4/dqn_model.py", line 31, in _get_conv_output
+    return int(np.prod(x.size()))
+               ^^
+NameError: name 'np' is not defined. Did you mean: 'nn'?

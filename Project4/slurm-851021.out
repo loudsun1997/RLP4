@@ -1,0 +1,24 @@
+/cm/local/apps/slurm/var/spool/job851021/slurm_script: line 12: activate: No such file or directory
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+Traceback (most recent call last):
+  File "/home/meflores/Project4/main.py", line 47, in <module>
+    run(args, record_video=args.record_video)
+  File "/home/meflores/Project4/main.py", line 35, in run
+    agent.train()
+  File "/home/meflores/Project4/agent_dqn.py", line 135, in train
+    action = self.make_action(state)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/Project4/agent_dqn.py", line 69, in make_action
+    q_values = self.q_net(state)
+               ^^^^^^^^^^^^^^^^^
+  File "/home/meflores/miniconda3/envs/myenv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/miniconda3/envs/myenv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meflores/Project4/dqn_model.py", line 41, in forward
+    x = x.view(x.size(0), -1)
+        ^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: view size is not compatible with input tensor's size and stride (at least one dimension spans across two contiguous subspaces). Use .reshape(...) instead.
