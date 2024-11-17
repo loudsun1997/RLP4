@@ -1,0 +1,11 @@
+Here are the list of commands that I ran. I got errors following the documentation I sent in the group chat. 
+
+pip install gym
+conda install swig
+pip install box2d
+pip install gym[box2d] -> I believe this did not work so I ran the lines that came after it
+pip install gym[atari] 
+pip install box2d pygame
+pip install --upgrade gym ale-py -> ran this after getting errors when trying to run code
+pip install gym[atari,accept-rom-license] -> ran this after getting errors when trying to run code
+pip install -U nptyping -> ran this after getting errors when trying to run code
