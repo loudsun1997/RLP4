@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import random
 import numpy as np
 import torch
@@ -5,7 +9,11 @@ from collections import deque
 from networks.standard_dqn import DQNModel
 from buffers.replay_buffer import ReplayBuffer
 from utils.logger import Logger
-from utils.plotter import plot_rewards
+from utils.plotter import Plotter
+import argparse
+from environment.environment import Environment
+import json
+import yaml
 import torch.optim as optim
 import torch.nn.functional as F
 
@@ -162,7 +170,7 @@ class Agent_DQN:
 		print(f"Model saved as {model_filename}.")
 
 		# Plot learning curve
-		plot_rewards(self.rewards_history, self.moving_avg_window)
+		Plotter.plot_rewards(self.rewards_history, self.moving_avg_window)
 
 	def evaluate(self, num_episodes=40):
 		"""Evaluate the agent's performance over a number of episodes."""
@@ -184,3 +192,29 @@ class Agent_DQN:
 		average_reward = np.mean(total_rewards)
 		print(f"Average Reward over {num_episodes} episodes: {average_reward}")
 		return average_reward
+
+if __name__ == '__main__':
+
+	def parse_args():
+		parser = argparse.ArgumentParser(description="DS551/CS525 RL Project3 Training")
+		parser.add_argument('--test_dqn', action='store_true', help='whether to test the DQN agent')
+		parser.add_argument('--config', required=True, help='config name')
+		args = parser.parse_args()
+		return args
+
+	def load_config(config_name):
+		config_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'configs', 'configs.yml')
+		with open(config_path, 'r') as f:
+			configs = yaml.safe_load(f)
+		return configs[config_name]
+
+	args = parse_args()
+	config = load_config(args.config)
+	env_name = 'ALE/MsPacman-v5'
+	env = Environment(env_name, args, atari_wrapper=True, test=args.test_dqn)
+	agent = Agent_DQN(env, args, config)
+
+	if args.test_dqn:
+		agent.evaluate()
+	else:
+		agent.train()

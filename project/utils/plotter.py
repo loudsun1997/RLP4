@@ -2,7 +2,9 @@ import os
 import json
 from collections import deque
 import matplotlib.pyplot as plt
-from logger import Logger  # Import the Logger class from logger.py
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from .logger import Logger
 
 class Plotter:
 	def __init__(self, log_dir, max_entries=1000):
