@@ -44,3 +44,48 @@ class DQNModel(nn.Module):
         x = F.relu(self.fc1(x))
         return self.fc2(x)  # No activation on the output layer
 
+
+class ActorCriticModel(nn.Module):
+    def __init__(self, input_shape, num_actions):
+        super(ActorCriticModel, self).__init__()
+        
+        # Convolutional layers
+        self.conv1 = nn.Conv2d(input_shape[0], 32, kernel_size=8, stride=4, padding=0) 
+        self.conv2 = nn.Conv2d(32, 64, kernel_size=4, stride=2, padding=0)
+        
+        # Compute the output size of the convolutional layers
+        conv_output_size = self._get_conv_output(input_shape)
+
+        # Shared dense layer
+        self.fc_shared = nn.Linear(conv_output_size, 128)
+
+        # Actor head (policy)
+        self.fc_actor = nn.Linear(128, num_actions)
+        
+        # Critic head (value)
+        self.fc_critic = nn.Linear(128, 1)
+
+    def _get_conv_output(self, shape):
+        """Helper function to calculate the output size after the conv layers."""
+        with torch.no_grad():
+            x = torch.zeros(1, *shape)
+            x = F.relu(self.conv1(x))
+            x = F.relu(self.conv2(x))
+            x = x.reshape(1, -1)  # Use reshape instead of view
+            return x.size(1)
+
+    def forward(self, x):
+        # Pass through convolutional layers
+        x = F.relu(self.conv1(x))
+        x = F.relu(self.conv2(x))
+        
+        # Flatten for dense layers
+        x = x.reshape(x.size(0), -1)  # Use reshape instead of view
+        
+        # Shared dense layer
+        x = F.relu(self.fc_shared(x))
+        
+        # Actor and Critic outputs
+        policy = F.softmax(self.fc_actor(x), dim=1)  
+        value = self.fc_critic(x) 
+        return policy, value

@@ -8,6 +8,7 @@ import argparse
 from test import test
 from environment import Environment
 import time
+from agent_dqn import Agent_DQN
 
 def parse():
     parser = argparse.ArgumentParser(description="DS551/CS525 RL Project3")
@@ -30,14 +31,14 @@ def run(args, record_video=False):
     if args.train_dqn or args.train_dqn_again:
         env_name = args.env_name or 'ALE/MsPacman-v5'
         env = Environment(env_name, args, atari_wrapper=True, test=False)
-        from agent_dqn import Agent_DQN
+        print("Environment initialized successfully.")
         agent = Agent_DQN(env, args)
+        print("Starting training...", flush=True)
         agent.train()
 
     if args.test_dqn:
         render_mode_value = "rgb_array" if record_video else None
         env = Environment('ALE/MsPacman-v5', args, atari_wrapper=True, test=True, render_mode=render_mode_value)
-        from agent_dqn import Agent_DQN
         agent = Agent_DQN(env, args)
         test(agent, env, total_episodes=100, record_video=record_video)
     print('running time:',time.time()-start_time)
