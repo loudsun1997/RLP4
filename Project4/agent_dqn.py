@@ -39,7 +39,7 @@ class Agent_DQN(Agent):
             ...
         """
 
-        super(Agent_DQN,self).__init__(env)
+        super(Agent_DQN, self).__init__(env)
         ###########################
         # YOUR IMPLEMENTATION HERE #
         self.env = env # Training environment
@@ -53,48 +53,46 @@ class Agent_DQN(Agent):
         self.Tensor = self.FloatTensor
         
         # Neural network parameters
-        self.batch_size = args.batch_size
+        print('args:', args)
+        self.batch_size = args['batch_size']
         self.gamma = 0.99 # Discount Factor
-        self.lr = args.learning_rate# 0.0001# 1.5e-4 # Learning Rate
+        self.lr = args['learning_rate'] # Learning Rate
         self.max_memory = int(10e4) # Memory size for replay buffer
         self.num_episodes = int(8e4) # Total episodes for training
-        self.decay_rate = args.decay_rate # int(2e4)
+        self.decay_rate = args['decay_rate']
         self.training_steps = int(5e3) 
-        self.target_update_freq = args.target_update_freq # int(5e3) # Target network update frequency 
-        self.f_skip = 4 # Frame skip for upfating every 4 frames
+        self.target_update_freq = args['target_update_freq'] # Target network update frequency 
+        self.f_skip = 4 # Frame skip for updating every 4 frames
         self.log_rate = 100 # Log progress every 100 episodes
         self.learn_step_counter = 0 # For updating the target network
-        self.log_dir = args.log_dir
+        self.log_dir = args['log_dir']
         # Replay buffer variables 
-        if args.buffer_type == 'std_buff':
+        if args['buffer_type'] == 'std_buff':
             self.buffer = deque(maxlen=self.max_memory) # Sample list for the replay buffer 
             self.buffer_type = 'std_buff'
-        elif args.buffer_type =='prioritized_buff':
+        elif args['buffer_type'] == 'prioritized_buff':
             self.buffer = PrioritizedReplayBuffer(capacity=self.max_memory, alpha=0.6)
             self.buffer_type = 'prioritized_buff'
         # Epsilon-greedy parameters
-        self.epsilon = 1.0
-        self.epsilon_min = 0.1 # Lower minimum epsilon to allow more exploration in complex tasks 
-        self.epsilon_decay = (self.epsilon - self.epsilon_min) / self.decay_rate
-
-    
+        self.epsilon = args['initial_epsilon']
+        self.epsilon_min = args['epsilon_min']
+        self.epsilon_decay = args['epsilon_decay']
+        
         # Q-network and target network initialization
-        self.dqn_type = args.dqn_type # pick between double and dueling or normal 
-        if args.dqn_type == 'dqn' or args.dqn_type == 'double dqn':
+        self.dqn_type = args['dqn_type'] # pick between double and dueling or normal 
+        if args['dqn_type'] == 'dqn' or args['dqn_type'] == 'double dqn':
             self.policy_net = DQN(in_channels=4, num_actions=self.env.action_space.n).to(self.device)
             self.target_net = DQN(in_channels=4, num_actions=self.env.action_space.n).to(self.device)
-        elif args.dqn_type == 'dueling dqn' or args.dqn_type == 'double dueling dqn':
+        elif args['dqn_type'] == 'dueling dqn' or args['dqn_type'] == 'double dueling dqn':
             self.policy_net = DuelingDQN(input_dim=4, output_dim=self.env.action_space.n).to(self.device)
             self.target_net = DuelingDQN(input_dim=4, output_dim=self.env.action_space.n).to(self.device)
         self.target_net.load_state_dict(self.policy_net.state_dict())
         self.target_net.eval()  # Set target network to evaluation mode to save memory
         
         # Optimizer and Huber Loss
-        # self.optimizer = optim.Adam(params=self.policy_net.parameters(), lr=self.lr) 
-        # Optimizer choice
-        if args.optimizer == 'adam':
+        if args['optimizer'] == 'adam':
             self.optimizer = optim.Adam(params=self.policy_net.parameters(), lr=self.lr)
-        elif args.optimizer == 'rmsprop':
+        elif args['optimizer'] == 'rmsprop':
             self.optimizer = optim.RMSprop(params=self.policy_net.parameters(), lr=self.lr)
         self.loss_fn = torch.nn.SmoothL1Loss()  # Huber loss
         
@@ -103,17 +101,18 @@ class Agent_DQN(Agent):
         self.moving_avg_window = 30  # Window size for moving average
         self.avg_reward = 100 # 100 episodes to average reward
         
-        if args.test_dqn:
-            #you can load your model here
+        if args['test_dqn']:
+            # you can load your model here
             print('loading trained model')
             ###########################
             # YOUR IMPLEMENTATION HERE #
-            self.policy_net.load_state_dict(torch.load('logs/864303/model.pth', map_location=self.device))
+            self.policy_net.load_state_dict(torch.load(args['model_path'], map_location=self.device))
             self.target_net.load_state_dict(self.policy_net.state_dict())
 
             # Set both networks to eval mode to disable gradients and save memory
             self.policy_net.eval()
             self.target_net.eval()
+
 
     def init_game_setting(self):
         """
@@ -329,7 +328,7 @@ class Agent_DQN(Agent):
 
             # Decay epsilon after each episode
             if episode < self.decay_rate:
-                self.epsilon = max(self.epsilon - self.epsilon_decay, self.epsilon_min)
+                self.epsilon = max(self.epsilon * self.epsilon_decay, self.epsilon_min)
         
         print("Training completed.")
         # Plot the learning curve
