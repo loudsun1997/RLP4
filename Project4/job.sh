@@ -9,5 +9,5 @@
 #SBATCH --mem 12G
 #SBATCH --job-name="P3"
 
-source activate myenv
-python main.py --test_dqn --record_video
+# source activate myenv
+python main.py --config_name 'default_dqn_1'

@@ -1,0 +1,38 @@
+# Default DQN configuration for Ms. Pac-Man
+default_dqn_1:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/default_dqn_1"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/default_dqn_1.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+  
