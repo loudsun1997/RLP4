@@ -280,8 +280,11 @@ class Agent_DQN(Agent):
                 action = self.make_action(state)
                 next_state, reward, done, _, life = self.env.step(action)
                 
-                # Apply reward clipping
-                clipped_reward = max(min(reward,1),-1) # clip reward in range 1,-1
+                # Apply logarithmic reward scaling
+                if reward >= 0:
+                    scaled_reward = np.log(1 + reward)
+                else:
+                    scaled_reward = -np.log(1 - reward)
                 
                 # Track lives
                 now_life = life['lives'] if 'lives' in life else 0
@@ -291,9 +294,9 @@ class Agent_DQN(Agent):
                 
                 # Store transition in replay buffer
                 if self.buffer_type == 'prioritized_buff':
-                    self.buffer.push(state, action, reward, next_state, dead, done)
+                    self.buffer.push(state, action, scaled_reward, next_state, dead, done)
                 elif self.buffer_type == 'std_buff':
-                    self.push(state, action, clipped_reward, next_state, dead, done)
+                    self.push(state, action, scaled_reward, next_state, dead, done)
 
                 # Update state and total reward
                 state = next_state
