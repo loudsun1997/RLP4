@@ -2,7 +2,7 @@ import argparse
 import numpy as np
 from environment import Environment
 import time
-from gymnasium.wrappers.monitoring import video_recorder
+# from gymnasium.wrappers.monitoring import video_recorder
 from tqdm import tqdm
 
 seed = 11037

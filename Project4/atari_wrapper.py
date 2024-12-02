@@ -3,9 +3,24 @@ import gymnasium as gym
 from gymnasium import spaces
 import numpy as np
 from typing import Union
+import os
+from ale_py import ALEInterface
+import gymnasium as gym
+
+# Set the ROM path directly
+rom_path = "/home/zyang12/hw/RL/p4/RLP4/Project4/Roms/ROMS/ms_pacman.bin"
+
+# Load the ROM using ALEInterface
+ale = ALEInterface()
+if not os.path.exists(rom_path):
+    raise FileNotFoundError(f"ROM not found at {rom_path}")
+ale.loadROM(rom_path)
+print("ROM loaded successfully!")
 
 from ray.rllib.utils.annotations import PublicAPI
 from ray.rllib.utils.images import rgb2gray, resize
+
+os.environ["ALE_ROM_PATH"] = "/home/zyang12/hw/RL/p4/RLP4/Project4/Roms/ROMS"
 
 
 @PublicAPI

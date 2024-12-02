@@ -1,0 +1,21 @@
+/home/zyang12/miniconda3/envs/project33/bin/python
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+Game console created:
+  ROM file:  /home/zyang12/hw/RL/p4/RLP4/Project4/Roms/ROMS/ms_pacman.bin
+  Cart Name: Ms. Pac-Man (1982) (CCE)
+  Cart MD5:  9469d18238345d87768e8965f9f4a6b2
+  Display Format:  AUTO-DETECT ==> NTSC
+  ROM Size:        8192
+  Bankswitch Type: AUTO-DETECT ==> F8
+
+Running ROM file...
+
+WARNING: Possibly unsupported ROM: mismatched MD5.
+Expected MD5:  87e79cd41ce136fd4f72cc6e2c161bee
+Cartridge MD5: 9469d18238345d87768e8965f9f4a6b2
+Cartridge Name: Ms. Pac-Man (1982) (CCE)
+
+Random seed is 1733167657
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]

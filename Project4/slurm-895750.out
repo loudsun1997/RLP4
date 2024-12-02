@@ -1,0 +1,31 @@
+Loading cuda/12.5.1/6wffrw2
+  Loading requirement: libiconv/1.17/pmxhi4x xz/5.4.6/uxouxrg
+    zlib-ng/2.1.5/uctcqfl libxml2/2.10.3/vdqe2g3
+/home/zyang12/miniconda3/envs/project33/bin/python
+args: Namespace(config_name='default_double_dqn_1')
+Loaded config with name 'default_double_dqn_1'
+config: {'name': 'default', 'note': 'baseline', 'learning_rate': 0.0001, 'optimizer': 'adam', 'buffer_type': 'std_buff', 'buffer_size': 100000, 'batch_size': 64, 'num_episodes': 500000, 'gamma': 0.99, 'target_update_freq': 10000, 'initial_epsilon': 1.0, 'epsilon_min': 0.01, 'decay_rate': 70000, 'epsilon_decay': 0.999, 'moving_avg_window': 100, 'log_dir': 'logs/default_double_dqn_1', 'dqn_type': 'double dqn', 'model_path': 'models/default_double_dqn_1.pth', 'train_dqn': True, 'test_dqn': False, 'record_video': False}
+Traceback (most recent call last):
+  File "/home/zyang12/hw/RL/p4/RLP4/Project4/main.py", line 50, in <module>
+    run(config)
+  File "/home/zyang12/hw/RL/p4/RLP4/Project4/main.py", line 31, in run
+    env = Environment(env_name, config, atari_wrapper=True, test=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zyang12/hw/RL/p4/RLP4/Project4/environment.py", line 16, in __init__
+    self.env = make_wrap_atari(env_name, clip_rewards, render_mode=render_mode)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zyang12/hw/RL/p4/RLP4/Project4/atari_wrapper.py", line 347, in make_wrap_atari
+    env = gym.make(env_id, render_mode=render_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zyang12/miniconda3/envs/project33/lib/python3.11/site-packages/gymnasium/envs/registration.py", line 740, in make
+    env_spec = _find_spec(id)
+               ^^^^^^^^^^^^^^
+  File "/home/zyang12/miniconda3/envs/project33/lib/python3.11/site-packages/gymnasium/envs/registration.py", line 537, in _find_spec
+    _check_version_exists(ns, name, version)
+  File "/home/zyang12/miniconda3/envs/project33/lib/python3.11/site-packages/gymnasium/envs/registration.py", line 403, in _check_version_exists
+    _check_name_exists(ns, name)
+  File "/home/zyang12/miniconda3/envs/project33/lib/python3.11/site-packages/gymnasium/envs/registration.py", line 366, in _check_name_exists
+    _check_namespace_exists(ns)
+  File "/home/zyang12/miniconda3/envs/project33/lib/python3.11/site-packages/gymnasium/envs/registration.py", line 360, in _check_namespace_exists
+    raise error.NamespaceNotFound(f"Namespace {ns} not found. {suggestion_msg}")
+gymnasium.error.NamespaceNotFound: Namespace ALE not found. Have you installed the proper package for ALE?

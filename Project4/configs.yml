@@ -35,4 +35,95 @@ default_dqn_1:
   train_dqn: True
   test_dqn: False
 
-  
+default_double_dqn_1:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_1"  # Added log directory
+
+  dqn_type: "double dqn"  # Added DQN type
+
+  model_path: "models/default_double_dqn_1.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_2:
+  name: "batch_size_128"
+  note: "Increased batch size for better gradient estimation"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 128  # Increased batch size
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_2"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_2.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_3:
+  name: "batch_size_32"
+  note: "Decreased batch size for faster updates"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 32  # Decreased batch size
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_3"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_3.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
