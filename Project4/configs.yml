@@ -74,7 +74,7 @@ default_double_dqn_1:
 
 default_double_dqn_2:
   name: "batch_size_128"
-  note: "Increased batch size for better gradient estimation"
+  note: "Killed Increased batch size for better gradient estimation"
 
   learning_rate: 0.0001
   optimizer: "adam"
@@ -124,6 +124,202 @@ default_double_dqn_3:
   log_dir: "logs/default_double_dqn_3"
   dqn_type: "double dqn"
   model_path: "models/default_double_dqn_3.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_4:
+  name: "fast_epsilon_decay"
+  note: "Killed Faster epsilon decay for aggressive exploitation"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 50000  # Faster decay rate
+  epsilon_decay: 0.995  # Slightly faster epsilon decay
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_4"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_4.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_5:
+  name: "slow_epsilon_decay"
+  note: "Slower epsilon decay for more exploration"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 100000  # Slower decay rate
+  epsilon_decay: 0.9999  # Slower epsilon decay
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_5"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_5.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_6:
+  name: "rmsprop_optimizer"
+  note: "Switched to RMSProp optimizer"
+
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Changed optimizer
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_6"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_6.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_7:
+  name: "increased_lr"
+  note: "Increased learning rate for faster convergence"
+
+  learning_rate: 0.001  # Increased learning rate
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_7"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_7.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_8:
+  name: "decreased_lr"
+  note: "Decreased learning rate for stability"
+
+  learning_rate: 0.00005  # Decreased learning rate
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_8"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_8.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_9:
+  name: "reduced_buffer"
+  note: "Reduced buffer size for faster memory updates"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "std_buff"
+  buffer_size: 50000  # Reduced buffer size
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_9"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_9.pth"
+  train_dqn: True
+  test_dqn: False
+  record_video: False
+
+default_double_dqn_10:
+  name: "prioritized_replay"
+  note: "Switched to prioritized replay buffer"
+
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  buffer_type: "prioritized_buff"  # Changed buffer type
+  buffer_size: 100000
+  batch_size: 64
+
+  num_episodes: 500000
+  gamma: 0.99
+  target_update_freq: 10000
+
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000
+  epsilon_decay: 0.999
+
+  moving_avg_window: 100
+  log_dir: "logs/default_double_dqn_10"
+  dqn_type: "double dqn"
+  model_path: "models/default_double_dqn_10.pth"
   train_dqn: True
   test_dqn: False
   record_video: False

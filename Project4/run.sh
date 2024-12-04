@@ -21,4 +21,4 @@ which python
 
 # python main.py --train_dqn
 # python main.py --test_dqn --record_video
-python main.py --config_name 'default_double_dqn_4'
+python main.py --config_name 'default_double_dqn_9'

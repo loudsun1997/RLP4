@@ -1,0 +1,32 @@
+Loading cuda/12.5.1/6wffrw2
+  Loading requirement: gcc-runtime/13.2.0/yimvxxm libiconv/1.17/pmxhi4x
+    xz/5.4.6/uxouxrg zlib-ng/2.1.5/uctcqfl libxml2/2.10.3/vdqe2g3
+/home/zyang12/miniconda3/envs/project33/bin/python
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+Game console created:
+  ROM file:  /home/zyang12/hw/RL/p4/RLP4/Project4/Roms/ROMS/ms_pacman.bin
+  Cart Name: Ms. Pac-Man (1982) (CCE)
+  Cart MD5:  9469d18238345d87768e8965f9f4a6b2
+  Display Format:  AUTO-DETECT ==> NTSC
+  ROM Size:        8192
+  Bankswitch Type: AUTO-DETECT ==> F8
+
+Running ROM file...
+
+WARNING: Possibly unsupported ROM: mismatched MD5.
+Expected MD5:  87e79cd41ce136fd4f72cc6e2c161bee
+Cartridge MD5: 9469d18238345d87768e8965f9f4a6b2
+Cartridge Name: Ms. Pac-Man (1982) (CCE)
+
+Random seed is 1733239995
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+ROM loaded successfully!
+args: Namespace(config_name='default_double_dqn_7')
+Loaded config with name 'default_double_dqn_7'
+config: {'name': 'increased_lr', 'note': 'Increased learning rate for faster convergence', 'learning_rate': 0.001, 'optimizer': 'adam', 'buffer_type': 'std_buff', 'buffer_size': 100000, 'batch_size': 64, 'num_episodes': 500000, 'gamma': 0.99, 'target_update_freq': 10000, 'initial_epsilon': 1.0, 'epsilon_min': 0.01, 'decay_rate': 70000, 'epsilon_decay': 0.999, 'moving_avg_window': 100, 'log_dir': 'logs/default_double_dqn_7', 'dqn_type': 'double dqn', 'model_path': 'models/default_double_dqn_7.pth', 'train_dqn': True, 'test_dqn': False, 'record_video': False}
+args: {'name': 'increased_lr', 'note': 'Increased learning rate for faster convergence', 'learning_rate': 0.001, 'optimizer': 'adam', 'buffer_type': 'std_buff', 'buffer_size': 100000, 'batch_size': 64, 'num_episodes': 500000, 'gamma': 0.99, 'target_update_freq': 10000, 'initial_epsilon': 1.0, 'epsilon_min': 0.01, 'decay_rate': 70000, 'epsilon_decay': 0.999, 'moving_avg_window': 100, 'log_dir': 'logs/default_double_dqn_7', 'dqn_type': 'double dqn', 'model_path': 'models/default_double_dqn_7.pth', 'train_dqn': True, 'test_dqn': False, 'record_video': False}
+Training DQN
+Training completed.
+running time: 24603.192445278168

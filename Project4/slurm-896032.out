@@ -19,3 +19,4 @@ Cartridge Name: Ms. Pac-Man (1982) (CCE)
 Random seed is 1733167637
 A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
 [Powered by Stella]
+/cm/local/apps/slurm/var/spool/job896032/slurm_script: line 24: 885471 Killed                  python main.py --config_name 'default_double_dqn_2'

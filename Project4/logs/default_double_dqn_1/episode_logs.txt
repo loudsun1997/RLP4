@@ -1204,3 +1204,3597 @@ Current epsilon = 0.01
 Current episode = 20100
 Current mean reward = 42.26
 Best mean reward = 46.72
+====================
+Current steps = 1455961
+Current epsilon = 0.01
+Current episode = 20200
+Current mean reward = 43.2
+Best mean reward = 46.72
+====================
+Current steps = 1465260
+Current epsilon = 0.01
+Current episode = 20300
+Current mean reward = 45.03
+Best mean reward = 46.83
+====================
+Current steps = 1473961
+Current epsilon = 0.01
+Current episode = 20400
+Current mean reward = 43.24
+Best mean reward = 46.83
+====================
+Current steps = 1482926
+Current epsilon = 0.01
+Current episode = 20500
+Current mean reward = 44.82
+Best mean reward = 46.83
+====================
+Current steps = 1492094
+Current epsilon = 0.01
+Current episode = 20600
+Current mean reward = 42.81
+Best mean reward = 46.83
+====================
+Current steps = 1500946
+Current epsilon = 0.01
+Current episode = 20700
+Current mean reward = 43.62
+Best mean reward = 46.83
+====================
+Current steps = 1509275
+Current epsilon = 0.01
+Current episode = 20800
+Current mean reward = 44.05
+Best mean reward = 46.83
+====================
+Current steps = 1517752
+Current epsilon = 0.01
+Current episode = 20900
+Current mean reward = 43.5
+Best mean reward = 46.83
+====================
+Current steps = 1526458
+Current epsilon = 0.01
+Current episode = 21000
+Current mean reward = 43.6
+Best mean reward = 47.63
+====================
+Current steps = 1535234
+Current epsilon = 0.01
+Current episode = 21100
+Current mean reward = 45.13
+Best mean reward = 47.63
+====================
+Current steps = 1544208
+Current epsilon = 0.01
+Current episode = 21200
+Current mean reward = 44.08
+Best mean reward = 47.63
+====================
+Current steps = 1552684
+Current epsilon = 0.01
+Current episode = 21300
+Current mean reward = 43.59
+Best mean reward = 47.63
+====================
+Current steps = 1561244
+Current epsilon = 0.01
+Current episode = 21400
+Current mean reward = 44.6
+Best mean reward = 47.63
+====================
+Current steps = 1570120
+Current epsilon = 0.01
+Current episode = 21500
+Current mean reward = 44.44
+Best mean reward = 47.63
+====================
+Current steps = 1579064
+Current epsilon = 0.01
+Current episode = 21600
+Current mean reward = 46.86
+Best mean reward = 49.3
+====================
+Current steps = 1587899
+Current epsilon = 0.01
+Current episode = 21700
+Current mean reward = 45.72
+Best mean reward = 49.3
+====================
+Current steps = 1596359
+Current epsilon = 0.01
+Current episode = 21800
+Current mean reward = 43.64
+Best mean reward = 49.3
+====================
+Current steps = 1605420
+Current epsilon = 0.01
+Current episode = 21900
+Current mean reward = 44.2
+Best mean reward = 49.3
+====================
+Current steps = 1614467
+Current epsilon = 0.01
+Current episode = 22000
+Current mean reward = 44.94
+Best mean reward = 49.3
+====================
+Current steps = 1623826
+Current epsilon = 0.01
+Current episode = 22100
+Current mean reward = 45.33
+Best mean reward = 49.3
+====================
+Current steps = 1632529
+Current epsilon = 0.01
+Current episode = 22200
+Current mean reward = 43.79
+Best mean reward = 49.3
+====================
+Current steps = 1641808
+Current epsilon = 0.01
+Current episode = 22300
+Current mean reward = 48.9
+Best mean reward = 49.3
+====================
+Current steps = 1650969
+Current epsilon = 0.01
+Current episode = 22400
+Current mean reward = 46.8
+Best mean reward = 51.36
+====================
+Current steps = 1660142
+Current epsilon = 0.01
+Current episode = 22500
+Current mean reward = 46.32
+Best mean reward = 51.36
+====================
+Current steps = 1669992
+Current epsilon = 0.01
+Current episode = 22600
+Current mean reward = 50.0
+Best mean reward = 51.36
+====================
+Current steps = 1679251
+Current epsilon = 0.01
+Current episode = 22700
+Current mean reward = 44.65
+Best mean reward = 51.36
+====================
+Current steps = 1688191
+Current epsilon = 0.01
+Current episode = 22800
+Current mean reward = 45.1
+Best mean reward = 51.36
+====================
+Current steps = 1697211
+Current epsilon = 0.01
+Current episode = 22900
+Current mean reward = 46.79
+Best mean reward = 51.36
+====================
+Current steps = 1706643
+Current epsilon = 0.01
+Current episode = 23000
+Current mean reward = 47.67
+Best mean reward = 51.36
+====================
+Current steps = 1716576
+Current epsilon = 0.01
+Current episode = 23100
+Current mean reward = 50.55
+Best mean reward = 52.02
+====================
+Current steps = 1726320
+Current epsilon = 0.01
+Current episode = 23200
+Current mean reward = 51.32
+Best mean reward = 52.6
+====================
+Current steps = 1735385
+Current epsilon = 0.01
+Current episode = 23300
+Current mean reward = 45.94
+Best mean reward = 52.6
+====================
+Current steps = 1744229
+Current epsilon = 0.01
+Current episode = 23400
+Current mean reward = 43.84
+Best mean reward = 52.6
+====================
+Current steps = 1752722
+Current epsilon = 0.01
+Current episode = 23500
+Current mean reward = 44.06
+Best mean reward = 52.6
+====================
+Current steps = 1762233
+Current epsilon = 0.01
+Current episode = 23600
+Current mean reward = 50.14
+Best mean reward = 52.6
+====================
+Current steps = 1771364
+Current epsilon = 0.01
+Current episode = 23700
+Current mean reward = 46.79
+Best mean reward = 52.6
+====================
+Current steps = 1780724
+Current epsilon = 0.01
+Current episode = 23800
+Current mean reward = 47.79
+Best mean reward = 52.6
+====================
+Current steps = 1789366
+Current epsilon = 0.01
+Current episode = 23900
+Current mean reward = 44.77
+Best mean reward = 52.6
+====================
+Current steps = 1798280
+Current epsilon = 0.01
+Current episode = 24000
+Current mean reward = 45.94
+Best mean reward = 52.6
+====================
+Current steps = 1807224
+Current epsilon = 0.01
+Current episode = 24100
+Current mean reward = 44.42
+Best mean reward = 52.6
+====================
+Current steps = 1816123
+Current epsilon = 0.01
+Current episode = 24200
+Current mean reward = 45.06
+Best mean reward = 52.6
+====================
+Current steps = 1825755
+Current epsilon = 0.01
+Current episode = 24300
+Current mean reward = 47.26
+Best mean reward = 52.6
+====================
+Current steps = 1834539
+Current epsilon = 0.01
+Current episode = 24400
+Current mean reward = 46.02
+Best mean reward = 52.6
+====================
+Current steps = 1843954
+Current epsilon = 0.01
+Current episode = 24500
+Current mean reward = 47.31
+Best mean reward = 52.6
+====================
+Current steps = 1853206
+Current epsilon = 0.01
+Current episode = 24600
+Current mean reward = 47.92
+Best mean reward = 52.6
+====================
+Current steps = 1861683
+Current epsilon = 0.01
+Current episode = 24700
+Current mean reward = 44.19
+Best mean reward = 52.6
+====================
+Current steps = 1870469
+Current epsilon = 0.01
+Current episode = 24800
+Current mean reward = 44.82
+Best mean reward = 52.6
+====================
+Current steps = 1879021
+Current epsilon = 0.01
+Current episode = 24900
+Current mean reward = 42.58
+Best mean reward = 52.6
+====================
+Current steps = 1888613
+Current epsilon = 0.01
+Current episode = 25000
+Current mean reward = 49.17
+Best mean reward = 52.6
+====================
+Current steps = 1897786
+Current epsilon = 0.01
+Current episode = 25100
+Current mean reward = 47.69
+Best mean reward = 52.6
+====================
+Current steps = 1906815
+Current epsilon = 0.01
+Current episode = 25200
+Current mean reward = 44.2
+Best mean reward = 52.6
+====================
+Current steps = 1916316
+Current epsilon = 0.01
+Current episode = 25300
+Current mean reward = 48.7
+Best mean reward = 52.6
+====================
+Current steps = 1925367
+Current epsilon = 0.01
+Current episode = 25400
+Current mean reward = 43.13
+Best mean reward = 52.6
+====================
+Current steps = 1935005
+Current epsilon = 0.01
+Current episode = 25500
+Current mean reward = 47.92
+Best mean reward = 52.6
+====================
+Current steps = 1944502
+Current epsilon = 0.01
+Current episode = 25600
+Current mean reward = 46.5
+Best mean reward = 52.6
+====================
+Current steps = 1954176
+Current epsilon = 0.01
+Current episode = 25700
+Current mean reward = 45.68
+Best mean reward = 52.6
+====================
+Current steps = 1964637
+Current epsilon = 0.01
+Current episode = 25800
+Current mean reward = 49.66
+Best mean reward = 52.6
+====================
+Current steps = 1974709
+Current epsilon = 0.01
+Current episode = 25900
+Current mean reward = 51.27
+Best mean reward = 52.6
+====================
+Current steps = 1983938
+Current epsilon = 0.01
+Current episode = 26000
+Current mean reward = 46.75
+Best mean reward = 52.6
+====================
+Current steps = 1993246
+Current epsilon = 0.01
+Current episode = 26100
+Current mean reward = 46.83
+Best mean reward = 52.6
+====================
+Current steps = 2002451
+Current epsilon = 0.01
+Current episode = 26200
+Current mean reward = 45.49
+Best mean reward = 52.6
+====================
+Current steps = 2012313
+Current epsilon = 0.01
+Current episode = 26300
+Current mean reward = 48.94
+Best mean reward = 52.6
+====================
+Current steps = 2021488
+Current epsilon = 0.01
+Current episode = 26400
+Current mean reward = 48.5
+Best mean reward = 52.6
+====================
+Current steps = 2031242
+Current epsilon = 0.01
+Current episode = 26500
+Current mean reward = 47.61
+Best mean reward = 52.6
+====================
+Current steps = 2040658
+Current epsilon = 0.01
+Current episode = 26600
+Current mean reward = 48.64
+Best mean reward = 52.6
+====================
+Current steps = 2050060
+Current epsilon = 0.01
+Current episode = 26700
+Current mean reward = 48.52
+Best mean reward = 52.6
+====================
+Current steps = 2059217
+Current epsilon = 0.01
+Current episode = 26800
+Current mean reward = 49.39
+Best mean reward = 52.6
+====================
+Current steps = 2068850
+Current epsilon = 0.01
+Current episode = 26900
+Current mean reward = 49.29
+Best mean reward = 52.6
+====================
+Current steps = 2078435
+Current epsilon = 0.01
+Current episode = 27000
+Current mean reward = 50.02
+Best mean reward = 53.49
+====================
+Current steps = 2088924
+Current epsilon = 0.01
+Current episode = 27100
+Current mean reward = 52.56
+Best mean reward = 53.49
+====================
+Current steps = 2098858
+Current epsilon = 0.01
+Current episode = 27200
+Current mean reward = 47.3
+Best mean reward = 54.12
+====================
+Current steps = 2108537
+Current epsilon = 0.01
+Current episode = 27300
+Current mean reward = 49.56
+Best mean reward = 54.12
+====================
+Current steps = 2118071
+Current epsilon = 0.01
+Current episode = 27400
+Current mean reward = 49.1
+Best mean reward = 54.12
+====================
+Current steps = 2127875
+Current epsilon = 0.01
+Current episode = 27500
+Current mean reward = 50.4
+Best mean reward = 54.12
+====================
+Current steps = 2136807
+Current epsilon = 0.01
+Current episode = 27600
+Current mean reward = 45.7
+Best mean reward = 54.12
+====================
+Current steps = 2146702
+Current epsilon = 0.01
+Current episode = 27700
+Current mean reward = 49.19
+Best mean reward = 54.12
+====================
+Current steps = 2155802
+Current epsilon = 0.01
+Current episode = 27800
+Current mean reward = 47.92
+Best mean reward = 54.12
+====================
+Current steps = 2166272
+Current epsilon = 0.01
+Current episode = 27900
+Current mean reward = 54.39
+Best mean reward = 55.87
+====================
+Current steps = 2175370
+Current epsilon = 0.01
+Current episode = 28000
+Current mean reward = 47.55
+Best mean reward = 55.87
+====================
+Current steps = 2184219
+Current epsilon = 0.01
+Current episode = 28100
+Current mean reward = 45.34
+Best mean reward = 55.87
+====================
+Current steps = 2193911
+Current epsilon = 0.01
+Current episode = 28200
+Current mean reward = 48.47
+Best mean reward = 55.87
+====================
+Current steps = 2203899
+Current epsilon = 0.01
+Current episode = 28300
+Current mean reward = 49.57
+Best mean reward = 55.87
+====================
+Current steps = 2213830
+Current epsilon = 0.01
+Current episode = 28400
+Current mean reward = 50.32
+Best mean reward = 55.87
+====================
+Current steps = 2223482
+Current epsilon = 0.01
+Current episode = 28500
+Current mean reward = 48.85
+Best mean reward = 55.87
+====================
+Current steps = 2233629
+Current epsilon = 0.01
+Current episode = 28600
+Current mean reward = 49.88
+Best mean reward = 55.87
+====================
+Current steps = 2242927
+Current epsilon = 0.01
+Current episode = 28700
+Current mean reward = 48.54
+Best mean reward = 55.87
+====================
+Current steps = 2253431
+Current epsilon = 0.01
+Current episode = 28800
+Current mean reward = 53.76
+Best mean reward = 55.87
+====================
+Current steps = 2263191
+Current epsilon = 0.01
+Current episode = 28900
+Current mean reward = 50.07
+Best mean reward = 55.87
+====================
+Current steps = 2272997
+Current epsilon = 0.01
+Current episode = 29000
+Current mean reward = 50.65
+Best mean reward = 55.87
+====================
+Current steps = 2281648
+Current epsilon = 0.01
+Current episode = 29100
+Current mean reward = 43.33
+Best mean reward = 55.87
+====================
+Current steps = 2290956
+Current epsilon = 0.01
+Current episode = 29200
+Current mean reward = 49.76
+Best mean reward = 55.87
+====================
+Current steps = 2300421
+Current epsilon = 0.01
+Current episode = 29300
+Current mean reward = 47.94
+Best mean reward = 55.87
+====================
+Current steps = 2309511
+Current epsilon = 0.01
+Current episode = 29400
+Current mean reward = 46.86
+Best mean reward = 55.87
+====================
+Current steps = 2318910
+Current epsilon = 0.01
+Current episode = 29500
+Current mean reward = 48.52
+Best mean reward = 55.87
+====================
+Current steps = 2327858
+Current epsilon = 0.01
+Current episode = 29600
+Current mean reward = 45.81
+Best mean reward = 55.87
+====================
+Current steps = 2337403
+Current epsilon = 0.01
+Current episode = 29700
+Current mean reward = 48.2
+Best mean reward = 55.87
+====================
+Current steps = 2346800
+Current epsilon = 0.01
+Current episode = 29800
+Current mean reward = 49.32
+Best mean reward = 55.87
+====================
+Current steps = 2356059
+Current epsilon = 0.01
+Current episode = 29900
+Current mean reward = 45.81
+Best mean reward = 55.87
+====================
+Current steps = 2365944
+Current epsilon = 0.01
+Current episode = 30000
+Current mean reward = 51.13
+Best mean reward = 55.87
+====================
+Current steps = 2375365
+Current epsilon = 0.01
+Current episode = 30100
+Current mean reward = 50.17
+Best mean reward = 55.87
+====================
+Current steps = 2385614
+Current epsilon = 0.01
+Current episode = 30200
+Current mean reward = 54.91
+Best mean reward = 55.87
+====================
+Current steps = 2394531
+Current epsilon = 0.01
+Current episode = 30300
+Current mean reward = 47.56
+Best mean reward = 55.87
+====================
+Current steps = 2404486
+Current epsilon = 0.01
+Current episode = 30400
+Current mean reward = 52.78
+Best mean reward = 55.87
+====================
+Current steps = 2413053
+Current epsilon = 0.01
+Current episode = 30500
+Current mean reward = 46.39
+Best mean reward = 55.87
+====================
+Current steps = 2422365
+Current epsilon = 0.01
+Current episode = 30600
+Current mean reward = 47.49
+Best mean reward = 55.87
+====================
+Current steps = 2431991
+Current epsilon = 0.01
+Current episode = 30700
+Current mean reward = 49.79
+Best mean reward = 55.87
+====================
+Current steps = 2441906
+Current epsilon = 0.01
+Current episode = 30800
+Current mean reward = 47.89
+Best mean reward = 55.87
+====================
+Current steps = 2451655
+Current epsilon = 0.01
+Current episode = 30900
+Current mean reward = 50.33
+Best mean reward = 55.87
+====================
+Current steps = 2461495
+Current epsilon = 0.01
+Current episode = 31000
+Current mean reward = 50.38
+Best mean reward = 55.87
+====================
+Current steps = 2470774
+Current epsilon = 0.01
+Current episode = 31100
+Current mean reward = 46.41
+Best mean reward = 55.87
+====================
+Current steps = 2480328
+Current epsilon = 0.01
+Current episode = 31200
+Current mean reward = 48.29
+Best mean reward = 55.87
+====================
+Current steps = 2490296
+Current epsilon = 0.01
+Current episode = 31300
+Current mean reward = 50.88
+Best mean reward = 55.87
+====================
+Current steps = 2501674
+Current epsilon = 0.01
+Current episode = 31400
+Current mean reward = 60.32
+Best mean reward = 61.45
+====================
+Current steps = 2510758
+Current epsilon = 0.01
+Current episode = 31500
+Current mean reward = 46.11
+Best mean reward = 61.45
+====================
+Current steps = 2520617
+Current epsilon = 0.01
+Current episode = 31600
+Current mean reward = 51.73
+Best mean reward = 61.45
+====================
+Current steps = 2530608
+Current epsilon = 0.01
+Current episode = 31700
+Current mean reward = 52.99
+Best mean reward = 61.45
+====================
+Current steps = 2541369
+Current epsilon = 0.01
+Current episode = 31800
+Current mean reward = 54.71
+Best mean reward = 61.45
+====================
+Current steps = 2551015
+Current epsilon = 0.01
+Current episode = 31900
+Current mean reward = 48.5
+Best mean reward = 61.45
+====================
+Current steps = 2560769
+Current epsilon = 0.01
+Current episode = 32000
+Current mean reward = 51.15
+Best mean reward = 61.45
+====================
+Current steps = 2570731
+Current epsilon = 0.01
+Current episode = 32100
+Current mean reward = 52.82
+Best mean reward = 61.45
+====================
+Current steps = 2581220
+Current epsilon = 0.01
+Current episode = 32200
+Current mean reward = 53.85
+Best mean reward = 61.45
+====================
+Current steps = 2591191
+Current epsilon = 0.01
+Current episode = 32300
+Current mean reward = 51.35
+Best mean reward = 61.45
+====================
+Current steps = 2600550
+Current epsilon = 0.01
+Current episode = 32400
+Current mean reward = 47.79
+Best mean reward = 61.45
+====================
+Current steps = 2610626
+Current epsilon = 0.01
+Current episode = 32500
+Current mean reward = 51.24
+Best mean reward = 61.45
+====================
+Current steps = 2620756
+Current epsilon = 0.01
+Current episode = 32600
+Current mean reward = 49.76
+Best mean reward = 61.45
+====================
+Current steps = 2631388
+Current epsilon = 0.01
+Current episode = 32700
+Current mean reward = 54.91
+Best mean reward = 61.45
+====================
+Current steps = 2641202
+Current epsilon = 0.01
+Current episode = 32800
+Current mean reward = 48.22
+Best mean reward = 61.45
+====================
+Current steps = 2651907
+Current epsilon = 0.01
+Current episode = 32900
+Current mean reward = 55.93
+Best mean reward = 61.45
+====================
+Current steps = 2662363
+Current epsilon = 0.01
+Current episode = 33000
+Current mean reward = 55.28
+Best mean reward = 61.45
+====================
+Current steps = 2671831
+Current epsilon = 0.01
+Current episode = 33100
+Current mean reward = 48.09
+Best mean reward = 61.45
+====================
+Current steps = 2683125
+Current epsilon = 0.01
+Current episode = 33200
+Current mean reward = 56.97
+Best mean reward = 61.45
+====================
+Current steps = 2693022
+Current epsilon = 0.01
+Current episode = 33300
+Current mean reward = 50.79
+Best mean reward = 61.45
+====================
+Current steps = 2703480
+Current epsilon = 0.01
+Current episode = 33400
+Current mean reward = 55.72
+Best mean reward = 61.45
+====================
+Current steps = 2713465
+Current epsilon = 0.01
+Current episode = 33500
+Current mean reward = 50.31
+Best mean reward = 61.45
+====================
+Current steps = 2724278
+Current epsilon = 0.01
+Current episode = 33600
+Current mean reward = 53.29
+Best mean reward = 61.45
+====================
+Current steps = 2734515
+Current epsilon = 0.01
+Current episode = 33700
+Current mean reward = 51.27
+Best mean reward = 61.45
+====================
+Current steps = 2745212
+Current epsilon = 0.01
+Current episode = 33800
+Current mean reward = 55.27
+Best mean reward = 61.45
+====================
+Current steps = 2755701
+Current epsilon = 0.01
+Current episode = 33900
+Current mean reward = 55.64
+Best mean reward = 61.45
+====================
+Current steps = 2765984
+Current epsilon = 0.01
+Current episode = 34000
+Current mean reward = 53.15
+Best mean reward = 61.45
+====================
+Current steps = 2775296
+Current epsilon = 0.01
+Current episode = 34100
+Current mean reward = 49.6
+Best mean reward = 61.45
+====================
+Current steps = 2785378
+Current epsilon = 0.01
+Current episode = 34200
+Current mean reward = 52.18
+Best mean reward = 61.45
+====================
+Current steps = 2796270
+Current epsilon = 0.01
+Current episode = 34300
+Current mean reward = 56.74
+Best mean reward = 61.45
+====================
+Current steps = 2806827
+Current epsilon = 0.01
+Current episode = 34400
+Current mean reward = 55.84
+Best mean reward = 61.45
+====================
+Current steps = 2817553
+Current epsilon = 0.01
+Current episode = 34500
+Current mean reward = 56.44
+Best mean reward = 61.45
+====================
+Current steps = 2827570
+Current epsilon = 0.01
+Current episode = 34600
+Current mean reward = 52.72
+Best mean reward = 61.45
+====================
+Current steps = 2837352
+Current epsilon = 0.01
+Current episode = 34700
+Current mean reward = 48.62
+Best mean reward = 61.45
+====================
+Current steps = 2848468
+Current epsilon = 0.01
+Current episode = 34800
+Current mean reward = 56.93
+Best mean reward = 61.45
+====================
+Current steps = 2858746
+Current epsilon = 0.01
+Current episode = 34900
+Current mean reward = 52.83
+Best mean reward = 61.45
+====================
+Current steps = 2869178
+Current epsilon = 0.01
+Current episode = 35000
+Current mean reward = 56.58
+Best mean reward = 61.45
+====================
+Current steps = 2879510
+Current epsilon = 0.01
+Current episode = 35100
+Current mean reward = 54.05
+Best mean reward = 61.45
+====================
+Current steps = 2890538
+Current epsilon = 0.01
+Current episode = 35200
+Current mean reward = 57.26
+Best mean reward = 61.45
+====================
+Current steps = 2901195
+Current epsilon = 0.01
+Current episode = 35300
+Current mean reward = 55.52
+Best mean reward = 61.45
+====================
+Current steps = 2911646
+Current epsilon = 0.01
+Current episode = 35400
+Current mean reward = 54.23
+Best mean reward = 61.45
+====================
+Current steps = 2922259
+Current epsilon = 0.01
+Current episode = 35500
+Current mean reward = 55.9
+Best mean reward = 61.45
+====================
+Current steps = 2932695
+Current epsilon = 0.01
+Current episode = 35600
+Current mean reward = 55.44
+Best mean reward = 61.45
+====================
+Current steps = 2943392
+Current epsilon = 0.01
+Current episode = 35700
+Current mean reward = 53.64
+Best mean reward = 61.45
+====================
+Current steps = 2953529
+Current epsilon = 0.01
+Current episode = 35800
+Current mean reward = 52.11
+Best mean reward = 61.45
+====================
+Current steps = 2963844
+Current epsilon = 0.01
+Current episode = 35900
+Current mean reward = 51.51
+Best mean reward = 61.45
+====================
+Current steps = 2972824
+Current epsilon = 0.01
+Current episode = 36000
+Current mean reward = 43.88
+Best mean reward = 61.45
+====================
+Current steps = 2983229
+Current epsilon = 0.01
+Current episode = 36100
+Current mean reward = 56.21
+Best mean reward = 61.45
+====================
+Current steps = 2992582
+Current epsilon = 0.01
+Current episode = 36200
+Current mean reward = 48.93
+Best mean reward = 61.45
+====================
+Current steps = 3003460
+Current epsilon = 0.01
+Current episode = 36300
+Current mean reward = 55.94
+Best mean reward = 61.45
+====================
+Current steps = 3014040
+Current epsilon = 0.01
+Current episode = 36400
+Current mean reward = 54.66
+Best mean reward = 61.45
+====================
+Current steps = 3024266
+Current epsilon = 0.01
+Current episode = 36500
+Current mean reward = 51.57
+Best mean reward = 61.45
+====================
+Current steps = 3035649
+Current epsilon = 0.01
+Current episode = 36600
+Current mean reward = 57.4
+Best mean reward = 61.45
+====================
+Current steps = 3046053
+Current epsilon = 0.01
+Current episode = 36700
+Current mean reward = 55.55
+Best mean reward = 62.16
+====================
+Current steps = 3057305
+Current epsilon = 0.01
+Current episode = 36800
+Current mean reward = 58.62
+Best mean reward = 62.16
+====================
+Current steps = 3067757
+Current epsilon = 0.01
+Current episode = 36900
+Current mean reward = 53.32
+Best mean reward = 62.16
+====================
+Current steps = 3078517
+Current epsilon = 0.01
+Current episode = 37000
+Current mean reward = 56.42
+Best mean reward = 62.16
+====================
+Current steps = 3089222
+Current epsilon = 0.01
+Current episode = 37100
+Current mean reward = 55.07
+Best mean reward = 62.16
+====================
+Current steps = 3100519
+Current epsilon = 0.01
+Current episode = 37200
+Current mean reward = 59.42
+Best mean reward = 62.16
+====================
+Current steps = 3110959
+Current epsilon = 0.01
+Current episode = 37300
+Current mean reward = 55.59
+Best mean reward = 64.23
+====================
+Current steps = 3122424
+Current epsilon = 0.01
+Current episode = 37400
+Current mean reward = 56.98
+Best mean reward = 64.23
+====================
+Current steps = 3133287
+Current epsilon = 0.01
+Current episode = 37500
+Current mean reward = 58.53
+Best mean reward = 64.23
+====================
+Current steps = 3143317
+Current epsilon = 0.01
+Current episode = 37600
+Current mean reward = 53.92
+Best mean reward = 64.23
+====================
+Current steps = 3154362
+Current epsilon = 0.01
+Current episode = 37700
+Current mean reward = 58.97
+Best mean reward = 64.23
+====================
+Current steps = 3164612
+Current epsilon = 0.01
+Current episode = 37800
+Current mean reward = 52.4
+Best mean reward = 64.23
+====================
+Current steps = 3175772
+Current epsilon = 0.01
+Current episode = 37900
+Current mean reward = 59.89
+Best mean reward = 64.23
+====================
+Current steps = 3186010
+Current epsilon = 0.01
+Current episode = 38000
+Current mean reward = 55.26
+Best mean reward = 64.23
+====================
+Current steps = 3197087
+Current epsilon = 0.01
+Current episode = 38100
+Current mean reward = 58.87
+Best mean reward = 64.23
+====================
+Current steps = 3208737
+Current epsilon = 0.01
+Current episode = 38200
+Current mean reward = 60.69
+Best mean reward = 64.65
+====================
+Current steps = 3218659
+Current epsilon = 0.01
+Current episode = 38300
+Current mean reward = 54.17
+Best mean reward = 64.65
+====================
+Current steps = 3228685
+Current epsilon = 0.01
+Current episode = 38400
+Current mean reward = 53.06
+Best mean reward = 64.65
+====================
+Current steps = 3240785
+Current epsilon = 0.01
+Current episode = 38500
+Current mean reward = 62.74
+Best mean reward = 64.65
+====================
+Current steps = 3251828
+Current epsilon = 0.01
+Current episode = 38600
+Current mean reward = 56.23
+Best mean reward = 67.91
+====================
+Current steps = 3263040
+Current epsilon = 0.01
+Current episode = 38700
+Current mean reward = 57.27
+Best mean reward = 67.91
+====================
+Current steps = 3274070
+Current epsilon = 0.01
+Current episode = 38800
+Current mean reward = 57.98
+Best mean reward = 67.91
+====================
+Current steps = 3285785
+Current epsilon = 0.01
+Current episode = 38900
+Current mean reward = 61.17
+Best mean reward = 67.91
+====================
+Current steps = 3296444
+Current epsilon = 0.01
+Current episode = 39000
+Current mean reward = 55.22
+Best mean reward = 67.91
+====================
+Current steps = 3306928
+Current epsilon = 0.01
+Current episode = 39100
+Current mean reward = 53.42
+Best mean reward = 67.91
+====================
+Current steps = 3317820
+Current epsilon = 0.01
+Current episode = 39200
+Current mean reward = 59.54
+Best mean reward = 67.91
+====================
+Current steps = 3328317
+Current epsilon = 0.01
+Current episode = 39300
+Current mean reward = 57.81
+Best mean reward = 67.91
+====================
+Current steps = 3338799
+Current epsilon = 0.01
+Current episode = 39400
+Current mean reward = 56.11
+Best mean reward = 67.91
+====================
+Current steps = 3349143
+Current epsilon = 0.01
+Current episode = 39500
+Current mean reward = 53.67
+Best mean reward = 67.91
+====================
+Current steps = 3360848
+Current epsilon = 0.01
+Current episode = 39600
+Current mean reward = 63.82
+Best mean reward = 67.91
+====================
+Current steps = 3371338
+Current epsilon = 0.01
+Current episode = 39700
+Current mean reward = 55.77
+Best mean reward = 67.91
+====================
+Current steps = 3382101
+Current epsilon = 0.01
+Current episode = 39800
+Current mean reward = 57.2
+Best mean reward = 67.91
+====================
+Current steps = 3392574
+Current epsilon = 0.01
+Current episode = 39900
+Current mean reward = 53.29
+Best mean reward = 67.91
+====================
+Current steps = 3404166
+Current epsilon = 0.01
+Current episode = 40000
+Current mean reward = 58.99
+Best mean reward = 67.91
+====================
+Current steps = 3415124
+Current epsilon = 0.01
+Current episode = 40100
+Current mean reward = 58.01
+Best mean reward = 67.91
+====================
+Current steps = 3426795
+Current epsilon = 0.01
+Current episode = 40200
+Current mean reward = 62.5
+Best mean reward = 67.91
+====================
+Current steps = 3438373
+Current epsilon = 0.01
+Current episode = 40300
+Current mean reward = 57.24
+Best mean reward = 67.91
+====================
+Current steps = 3449279
+Current epsilon = 0.01
+Current episode = 40400
+Current mean reward = 57.81
+Best mean reward = 67.91
+====================
+Current steps = 3460256
+Current epsilon = 0.01
+Current episode = 40500
+Current mean reward = 57.36
+Best mean reward = 67.91
+====================
+Current steps = 3470886
+Current epsilon = 0.01
+Current episode = 40600
+Current mean reward = 55.99
+Best mean reward = 67.91
+====================
+Current steps = 3481592
+Current epsilon = 0.01
+Current episode = 40700
+Current mean reward = 55.73
+Best mean reward = 67.91
+====================
+Current steps = 3491786
+Current epsilon = 0.01
+Current episode = 40800
+Current mean reward = 56.21
+Best mean reward = 67.91
+====================
+Current steps = 3502991
+Current epsilon = 0.01
+Current episode = 40900
+Current mean reward = 59.98
+Best mean reward = 67.91
+====================
+Current steps = 3514253
+Current epsilon = 0.01
+Current episode = 41000
+Current mean reward = 61.15
+Best mean reward = 67.91
+====================
+Current steps = 3525279
+Current epsilon = 0.01
+Current episode = 41100
+Current mean reward = 59.98
+Best mean reward = 67.91
+====================
+Current steps = 3534596
+Current epsilon = 0.01
+Current episode = 41200
+Current mean reward = 48.53
+Best mean reward = 67.91
+====================
+Current steps = 3546393
+Current epsilon = 0.01
+Current episode = 41300
+Current mean reward = 63.74
+Best mean reward = 67.91
+====================
+Current steps = 3557359
+Current epsilon = 0.01
+Current episode = 41400
+Current mean reward = 61.28
+Best mean reward = 67.91
+====================
+Current steps = 3567916
+Current epsilon = 0.01
+Current episode = 41500
+Current mean reward = 57.33
+Best mean reward = 67.91
+====================
+Current steps = 3578856
+Current epsilon = 0.01
+Current episode = 41600
+Current mean reward = 58.65
+Best mean reward = 67.91
+====================
+Current steps = 3590761
+Current epsilon = 0.01
+Current episode = 41700
+Current mean reward = 62.98
+Best mean reward = 67.91
+====================
+Current steps = 3602344
+Current epsilon = 0.01
+Current episode = 41800
+Current mean reward = 58.3
+Best mean reward = 67.91
+====================
+Current steps = 3613013
+Current epsilon = 0.01
+Current episode = 41900
+Current mean reward = 54.71
+Best mean reward = 67.91
+====================
+Current steps = 3623080
+Current epsilon = 0.01
+Current episode = 42000
+Current mean reward = 54.93
+Best mean reward = 67.91
+====================
+Current steps = 3633662
+Current epsilon = 0.01
+Current episode = 42100
+Current mean reward = 55.09
+Best mean reward = 67.91
+====================
+Current steps = 3644310
+Current epsilon = 0.01
+Current episode = 42200
+Current mean reward = 56.98
+Best mean reward = 67.91
+====================
+Current steps = 3655285
+Current epsilon = 0.01
+Current episode = 42300
+Current mean reward = 58.8
+Best mean reward = 67.91
+====================
+Current steps = 3666662
+Current epsilon = 0.01
+Current episode = 42400
+Current mean reward = 60.64
+Best mean reward = 67.91
+====================
+Current steps = 3679205
+Current epsilon = 0.01
+Current episode = 42500
+Current mean reward = 67.32
+Best mean reward = 71.16
+====================
+Current steps = 3690479
+Current epsilon = 0.01
+Current episode = 42600
+Current mean reward = 60.15
+Best mean reward = 71.16
+====================
+Current steps = 3702447
+Current epsilon = 0.01
+Current episode = 42700
+Current mean reward = 65.23
+Best mean reward = 71.16
+====================
+Current steps = 3713936
+Current epsilon = 0.01
+Current episode = 42800
+Current mean reward = 59.51
+Best mean reward = 71.16
+====================
+Current steps = 3726295
+Current epsilon = 0.01
+Current episode = 42900
+Current mean reward = 64.74
+Best mean reward = 71.16
+====================
+Current steps = 3738257
+Current epsilon = 0.01
+Current episode = 43000
+Current mean reward = 63.39
+Best mean reward = 71.16
+====================
+Current steps = 3749229
+Current epsilon = 0.01
+Current episode = 43100
+Current mean reward = 59.22
+Best mean reward = 71.16
+====================
+Current steps = 3760581
+Current epsilon = 0.01
+Current episode = 43200
+Current mean reward = 60.69
+Best mean reward = 71.16
+====================
+Current steps = 3771843
+Current epsilon = 0.01
+Current episode = 43300
+Current mean reward = 56.18
+Best mean reward = 71.16
+====================
+Current steps = 3783211
+Current epsilon = 0.01
+Current episode = 43400
+Current mean reward = 60.86
+Best mean reward = 71.16
+====================
+Current steps = 3795191
+Current epsilon = 0.01
+Current episode = 43500
+Current mean reward = 64.01
+Best mean reward = 71.16
+====================
+Current steps = 3806698
+Current epsilon = 0.01
+Current episode = 43600
+Current mean reward = 62.6
+Best mean reward = 71.16
+====================
+Current steps = 3817378
+Current epsilon = 0.01
+Current episode = 43700
+Current mean reward = 57.72
+Best mean reward = 71.16
+====================
+Current steps = 3828118
+Current epsilon = 0.01
+Current episode = 43800
+Current mean reward = 57.55
+Best mean reward = 71.16
+====================
+Current steps = 3840746
+Current epsilon = 0.01
+Current episode = 43900
+Current mean reward = 69.57
+Best mean reward = 71.16
+====================
+Current steps = 3851450
+Current epsilon = 0.01
+Current episode = 44000
+Current mean reward = 59.14
+Best mean reward = 71.16
+====================
+Current steps = 3862810
+Current epsilon = 0.01
+Current episode = 44100
+Current mean reward = 62.33
+Best mean reward = 71.16
+====================
+Current steps = 3873270
+Current epsilon = 0.01
+Current episode = 44200
+Current mean reward = 53.61
+Best mean reward = 71.16
+====================
+Current steps = 3885788
+Current epsilon = 0.01
+Current episode = 44300
+Current mean reward = 68.47
+Best mean reward = 71.16
+====================
+Current steps = 3897621
+Current epsilon = 0.01
+Current episode = 44400
+Current mean reward = 63.77
+Best mean reward = 71.16
+====================
+Current steps = 3907977
+Current epsilon = 0.01
+Current episode = 44500
+Current mean reward = 55.51
+Best mean reward = 71.16
+====================
+Current steps = 3918941
+Current epsilon = 0.01
+Current episode = 44600
+Current mean reward = 58.91
+Best mean reward = 71.16
+====================
+Current steps = 3929594
+Current epsilon = 0.01
+Current episode = 44700
+Current mean reward = 58.13
+Best mean reward = 71.16
+====================
+Current steps = 3940804
+Current epsilon = 0.01
+Current episode = 44800
+Current mean reward = 61.38
+Best mean reward = 71.16
+====================
+Current steps = 3951917
+Current epsilon = 0.01
+Current episode = 44900
+Current mean reward = 61.51
+Best mean reward = 71.16
+====================
+Current steps = 3963475
+Current epsilon = 0.01
+Current episode = 45000
+Current mean reward = 61.78
+Best mean reward = 71.16
+====================
+Current steps = 3974741
+Current epsilon = 0.01
+Current episode = 45100
+Current mean reward = 59.85
+Best mean reward = 71.16
+====================
+Current steps = 3985927
+Current epsilon = 0.01
+Current episode = 45200
+Current mean reward = 59.5
+Best mean reward = 71.16
+====================
+Current steps = 3997412
+Current epsilon = 0.01
+Current episode = 45300
+Current mean reward = 63.79
+Best mean reward = 71.16
+====================
+Current steps = 4008355
+Current epsilon = 0.01
+Current episode = 45400
+Current mean reward = 58.86
+Best mean reward = 71.16
+====================
+Current steps = 4019570
+Current epsilon = 0.01
+Current episode = 45500
+Current mean reward = 59.82
+Best mean reward = 71.16
+====================
+Current steps = 4031293
+Current epsilon = 0.01
+Current episode = 45600
+Current mean reward = 63.5
+Best mean reward = 71.16
+====================
+Current steps = 4042310
+Current epsilon = 0.01
+Current episode = 45700
+Current mean reward = 58.89
+Best mean reward = 71.16
+====================
+Current steps = 4053740
+Current epsilon = 0.01
+Current episode = 45800
+Current mean reward = 61.08
+Best mean reward = 71.16
+====================
+Current steps = 4066207
+Current epsilon = 0.01
+Current episode = 45900
+Current mean reward = 66.92
+Best mean reward = 71.16
+====================
+Current steps = 4076950
+Current epsilon = 0.01
+Current episode = 46000
+Current mean reward = 57.93
+Best mean reward = 71.16
+====================
+Current steps = 4088758
+Current epsilon = 0.01
+Current episode = 46100
+Current mean reward = 62.23
+Best mean reward = 71.16
+====================
+Current steps = 4098912
+Current epsilon = 0.01
+Current episode = 46200
+Current mean reward = 55.07
+Best mean reward = 71.16
+====================
+Current steps = 4109136
+Current epsilon = 0.01
+Current episode = 46300
+Current mean reward = 56.35
+Best mean reward = 71.16
+====================
+Current steps = 4120417
+Current epsilon = 0.01
+Current episode = 46400
+Current mean reward = 59.48
+Best mean reward = 71.16
+====================
+Current steps = 4131229
+Current epsilon = 0.01
+Current episode = 46500
+Current mean reward = 56.36
+Best mean reward = 71.16
+====================
+Current steps = 4142704
+Current epsilon = 0.01
+Current episode = 46600
+Current mean reward = 60.47
+Best mean reward = 71.16
+====================
+Current steps = 4153178
+Current epsilon = 0.01
+Current episode = 46700
+Current mean reward = 57.08
+Best mean reward = 71.16
+====================
+Current steps = 4164311
+Current epsilon = 0.01
+Current episode = 46800
+Current mean reward = 60.49
+Best mean reward = 71.16
+====================
+Current steps = 4175467
+Current epsilon = 0.01
+Current episode = 46900
+Current mean reward = 61.64
+Best mean reward = 71.16
+====================
+Current steps = 4186567
+Current epsilon = 0.01
+Current episode = 47000
+Current mean reward = 60.03
+Best mean reward = 71.16
+====================
+Current steps = 4196696
+Current epsilon = 0.01
+Current episode = 47100
+Current mean reward = 56.49
+Best mean reward = 71.16
+====================
+Current steps = 4208125
+Current epsilon = 0.01
+Current episode = 47200
+Current mean reward = 62.29
+Best mean reward = 71.16
+====================
+Current steps = 4220284
+Current epsilon = 0.01
+Current episode = 47300
+Current mean reward = 64.54
+Best mean reward = 71.16
+====================
+Current steps = 4232018
+Current epsilon = 0.01
+Current episode = 47400
+Current mean reward = 65.54
+Best mean reward = 71.16
+====================
+Current steps = 4242780
+Current epsilon = 0.01
+Current episode = 47500
+Current mean reward = 59.0
+Best mean reward = 71.16
+====================
+Current steps = 4254517
+Current epsilon = 0.01
+Current episode = 47600
+Current mean reward = 61.25
+Best mean reward = 71.16
+====================
+Current steps = 4265541
+Current epsilon = 0.01
+Current episode = 47700
+Current mean reward = 59.8
+Best mean reward = 71.16
+====================
+Current steps = 4276532
+Current epsilon = 0.01
+Current episode = 47800
+Current mean reward = 58.91
+Best mean reward = 71.16
+====================
+Current steps = 4287460
+Current epsilon = 0.01
+Current episode = 47900
+Current mean reward = 56.53
+Best mean reward = 71.16
+====================
+Current steps = 4298872
+Current epsilon = 0.01
+Current episode = 48000
+Current mean reward = 60.96
+Best mean reward = 71.16
+====================
+Current steps = 4310221
+Current epsilon = 0.01
+Current episode = 48100
+Current mean reward = 61.28
+Best mean reward = 71.16
+====================
+Current steps = 4322062
+Current epsilon = 0.01
+Current episode = 48200
+Current mean reward = 61.71
+Best mean reward = 71.16
+====================
+Current steps = 4334207
+Current epsilon = 0.01
+Current episode = 48300
+Current mean reward = 62.95
+Best mean reward = 71.16
+====================
+Current steps = 4345140
+Current epsilon = 0.01
+Current episode = 48400
+Current mean reward = 58.47
+Best mean reward = 71.16
+====================
+Current steps = 4356152
+Current epsilon = 0.01
+Current episode = 48500
+Current mean reward = 60.9
+Best mean reward = 71.16
+====================
+Current steps = 4366982
+Current epsilon = 0.01
+Current episode = 48600
+Current mean reward = 58.61
+Best mean reward = 71.16
+====================
+Current steps = 4377756
+Current epsilon = 0.01
+Current episode = 48700
+Current mean reward = 59.51
+Best mean reward = 71.16
+====================
+Current steps = 4388531
+Current epsilon = 0.01
+Current episode = 48800
+Current mean reward = 58.12
+Best mean reward = 71.16
+====================
+Current steps = 4399866
+Current epsilon = 0.01
+Current episode = 48900
+Current mean reward = 59.85
+Best mean reward = 71.16
+====================
+Current steps = 4411003
+Current epsilon = 0.01
+Current episode = 49000
+Current mean reward = 61.3
+Best mean reward = 71.16
+====================
+Current steps = 4422080
+Current epsilon = 0.01
+Current episode = 49100
+Current mean reward = 60.16
+Best mean reward = 71.16
+====================
+Current steps = 4433074
+Current epsilon = 0.01
+Current episode = 49200
+Current mean reward = 57.86
+Best mean reward = 71.16
+====================
+Current steps = 4445811
+Current epsilon = 0.01
+Current episode = 49300
+Current mean reward = 71.54
+Best mean reward = 71.16
+====================
+Current steps = 4456728
+Current epsilon = 0.01
+Current episode = 49400
+Current mean reward = 55.51
+Best mean reward = 73.14
+====================
+Current steps = 4467549
+Current epsilon = 0.01
+Current episode = 49500
+Current mean reward = 58.96
+Best mean reward = 73.14
+====================
+Current steps = 4478631
+Current epsilon = 0.01
+Current episode = 49600
+Current mean reward = 60.9
+Best mean reward = 73.14
+====================
+Current steps = 4490522
+Current epsilon = 0.01
+Current episode = 49700
+Current mean reward = 67.76
+Best mean reward = 73.14
+====================
+Current steps = 4502375
+Current epsilon = 0.01
+Current episode = 49800
+Current mean reward = 65.81
+Best mean reward = 73.14
+====================
+Current steps = 4513180
+Current epsilon = 0.01
+Current episode = 49900
+Current mean reward = 60.3
+Best mean reward = 73.14
+====================
+Current steps = 4524629
+Current epsilon = 0.01
+Current episode = 50000
+Current mean reward = 59.41
+Best mean reward = 73.14
+====================
+Current steps = 4536132
+Current epsilon = 0.01
+Current episode = 50100
+Current mean reward = 62.92
+Best mean reward = 73.14
+====================
+Current steps = 4546893
+Current epsilon = 0.01
+Current episode = 50200
+Current mean reward = 58.6
+Best mean reward = 73.14
+====================
+Current steps = 4557359
+Current epsilon = 0.01
+Current episode = 50300
+Current mean reward = 55.79
+Best mean reward = 73.14
+====================
+Current steps = 4568662
+Current epsilon = 0.01
+Current episode = 50400
+Current mean reward = 58.42
+Best mean reward = 73.14
+====================
+Current steps = 4580099
+Current epsilon = 0.01
+Current episode = 50500
+Current mean reward = 65.21
+Best mean reward = 73.14
+====================
+Current steps = 4591418
+Current epsilon = 0.01
+Current episode = 50600
+Current mean reward = 59.92
+Best mean reward = 73.14
+====================
+Current steps = 4602047
+Current epsilon = 0.01
+Current episode = 50700
+Current mean reward = 56.32
+Best mean reward = 73.14
+====================
+Current steps = 4613469
+Current epsilon = 0.01
+Current episode = 50800
+Current mean reward = 61.94
+Best mean reward = 73.14
+====================
+Current steps = 4624206
+Current epsilon = 0.01
+Current episode = 50900
+Current mean reward = 57.07
+Best mean reward = 73.14
+====================
+Current steps = 4636490
+Current epsilon = 0.01
+Current episode = 51000
+Current mean reward = 62.57
+Best mean reward = 73.14
+====================
+Current steps = 4648060
+Current epsilon = 0.01
+Current episode = 51100
+Current mean reward = 63.19
+Best mean reward = 73.14
+====================
+Current steps = 4659346
+Current epsilon = 0.01
+Current episode = 51200
+Current mean reward = 58.04
+Best mean reward = 73.14
+====================
+Current steps = 4671051
+Current epsilon = 0.01
+Current episode = 51300
+Current mean reward = 63.29
+Best mean reward = 73.14
+====================
+Current steps = 4681994
+Current epsilon = 0.01
+Current episode = 51400
+Current mean reward = 57.86
+Best mean reward = 73.14
+====================
+Current steps = 4692813
+Current epsilon = 0.01
+Current episode = 51500
+Current mean reward = 59.85
+Best mean reward = 73.14
+====================
+Current steps = 4704073
+Current epsilon = 0.01
+Current episode = 51600
+Current mean reward = 58.86
+Best mean reward = 73.14
+====================
+Current steps = 4715801
+Current epsilon = 0.01
+Current episode = 51700
+Current mean reward = 63.14
+Best mean reward = 73.14
+====================
+Current steps = 4727871
+Current epsilon = 0.01
+Current episode = 51800
+Current mean reward = 67.68
+Best mean reward = 73.14
+====================
+Current steps = 4738262
+Current epsilon = 0.01
+Current episode = 51900
+Current mean reward = 55.44
+Best mean reward = 73.14
+====================
+Current steps = 4749101
+Current epsilon = 0.01
+Current episode = 52000
+Current mean reward = 58.99
+Best mean reward = 73.14
+====================
+Current steps = 4760702
+Current epsilon = 0.01
+Current episode = 52100
+Current mean reward = 63.37
+Best mean reward = 73.14
+====================
+Current steps = 4772943
+Current epsilon = 0.01
+Current episode = 52200
+Current mean reward = 68.01
+Best mean reward = 73.14
+====================
+Current steps = 4783959
+Current epsilon = 0.01
+Current episode = 52300
+Current mean reward = 59.43
+Best mean reward = 73.14
+====================
+Current steps = 4795412
+Current epsilon = 0.01
+Current episode = 52400
+Current mean reward = 60.6
+Best mean reward = 73.14
+====================
+Current steps = 4806420
+Current epsilon = 0.01
+Current episode = 52500
+Current mean reward = 58.5
+Best mean reward = 73.14
+====================
+Current steps = 4817832
+Current epsilon = 0.01
+Current episode = 52600
+Current mean reward = 60.6
+Best mean reward = 73.14
+====================
+Current steps = 4828159
+Current epsilon = 0.01
+Current episode = 52700
+Current mean reward = 56.64
+Best mean reward = 73.14
+====================
+Current steps = 4839436
+Current epsilon = 0.01
+Current episode = 52800
+Current mean reward = 60.21
+Best mean reward = 73.14
+====================
+Current steps = 4850657
+Current epsilon = 0.01
+Current episode = 52900
+Current mean reward = 61.34
+Best mean reward = 73.14
+====================
+Current steps = 4862678
+Current epsilon = 0.01
+Current episode = 53000
+Current mean reward = 64.13
+Best mean reward = 73.14
+====================
+Current steps = 4873863
+Current epsilon = 0.01
+Current episode = 53100
+Current mean reward = 59.96
+Best mean reward = 73.14
+====================
+Current steps = 4884955
+Current epsilon = 0.01
+Current episode = 53200
+Current mean reward = 59.93
+Best mean reward = 73.14
+====================
+Current steps = 4896191
+Current epsilon = 0.01
+Current episode = 53300
+Current mean reward = 59.07
+Best mean reward = 73.14
+====================
+Current steps = 4906923
+Current epsilon = 0.01
+Current episode = 53400
+Current mean reward = 55.74
+Best mean reward = 73.14
+====================
+Current steps = 4919169
+Current epsilon = 0.01
+Current episode = 53500
+Current mean reward = 68.6
+Best mean reward = 73.14
+====================
+Current steps = 4931103
+Current epsilon = 0.01
+Current episode = 53600
+Current mean reward = 65.95
+Best mean reward = 73.14
+====================
+Current steps = 4942087
+Current epsilon = 0.01
+Current episode = 53700
+Current mean reward = 59.44
+Best mean reward = 73.14
+====================
+Current steps = 4953252
+Current epsilon = 0.01
+Current episode = 53800
+Current mean reward = 62.5
+Best mean reward = 73.14
+====================
+Current steps = 4964829
+Current epsilon = 0.01
+Current episode = 53900
+Current mean reward = 62.71
+Best mean reward = 73.14
+====================
+Current steps = 4976782
+Current epsilon = 0.01
+Current episode = 54000
+Current mean reward = 65.43
+Best mean reward = 73.14
+====================
+Current steps = 4987306
+Current epsilon = 0.01
+Current episode = 54100
+Current mean reward = 58.83
+Best mean reward = 73.14
+====================
+Current steps = 4997403
+Current epsilon = 0.01
+Current episode = 54200
+Current mean reward = 54.69
+Best mean reward = 73.14
+====================
+Current steps = 5008092
+Current epsilon = 0.01
+Current episode = 54300
+Current mean reward = 57.14
+Best mean reward = 73.14
+====================
+Current steps = 5019369
+Current epsilon = 0.01
+Current episode = 54400
+Current mean reward = 61.25
+Best mean reward = 73.14
+====================
+Current steps = 5030974
+Current epsilon = 0.01
+Current episode = 54500
+Current mean reward = 64.35
+Best mean reward = 73.14
+====================
+Current steps = 5042685
+Current epsilon = 0.01
+Current episode = 54600
+Current mean reward = 64.09
+Best mean reward = 73.14
+====================
+Current steps = 5053405
+Current epsilon = 0.01
+Current episode = 54700
+Current mean reward = 59.83
+Best mean reward = 73.14
+====================
+Current steps = 5063826
+Current epsilon = 0.01
+Current episode = 54800
+Current mean reward = 57.28
+Best mean reward = 73.14
+====================
+Current steps = 5075649
+Current epsilon = 0.01
+Current episode = 54900
+Current mean reward = 67.48
+Best mean reward = 73.14
+====================
+Current steps = 5087677
+Current epsilon = 0.01
+Current episode = 55000
+Current mean reward = 65.13
+Best mean reward = 73.14
+====================
+Current steps = 5099389
+Current epsilon = 0.01
+Current episode = 55100
+Current mean reward = 63.41
+Best mean reward = 73.14
+====================
+Current steps = 5110056
+Current epsilon = 0.01
+Current episode = 55200
+Current mean reward = 56.47
+Best mean reward = 73.14
+====================
+Current steps = 5120955
+Current epsilon = 0.01
+Current episode = 55300
+Current mean reward = 61.09
+Best mean reward = 73.14
+====================
+Current steps = 5132750
+Current epsilon = 0.01
+Current episode = 55400
+Current mean reward = 65.03
+Best mean reward = 73.14
+====================
+Current steps = 5143541
+Current epsilon = 0.01
+Current episode = 55500
+Current mean reward = 57.93
+Best mean reward = 73.14
+====================
+Current steps = 5155874
+Current epsilon = 0.01
+Current episode = 55600
+Current mean reward = 68.42
+Best mean reward = 73.14
+====================
+Current steps = 5167728
+Current epsilon = 0.01
+Current episode = 55700
+Current mean reward = 64.34
+Best mean reward = 73.14
+====================
+Current steps = 5178774
+Current epsilon = 0.01
+Current episode = 55800
+Current mean reward = 57.41
+Best mean reward = 73.14
+====================
+Current steps = 5190952
+Current epsilon = 0.01
+Current episode = 55900
+Current mean reward = 68.28
+Best mean reward = 73.14
+====================
+Current steps = 5202936
+Current epsilon = 0.01
+Current episode = 56000
+Current mean reward = 64.05
+Best mean reward = 73.14
+====================
+Current steps = 5215014
+Current epsilon = 0.01
+Current episode = 56100
+Current mean reward = 66.47
+Best mean reward = 73.14
+====================
+Current steps = 5227172
+Current epsilon = 0.01
+Current episode = 56200
+Current mean reward = 67.16
+Best mean reward = 73.14
+====================
+Current steps = 5239854
+Current epsilon = 0.01
+Current episode = 56300
+Current mean reward = 67.65
+Best mean reward = 73.14
+====================
+Current steps = 5250724
+Current epsilon = 0.01
+Current episode = 56400
+Current mean reward = 61.21
+Best mean reward = 73.14
+====================
+Current steps = 5262496
+Current epsilon = 0.01
+Current episode = 56500
+Current mean reward = 66.16
+Best mean reward = 73.14
+====================
+Current steps = 5274224
+Current epsilon = 0.01
+Current episode = 56600
+Current mean reward = 65.36
+Best mean reward = 73.14
+====================
+Current steps = 5284941
+Current epsilon = 0.01
+Current episode = 56700
+Current mean reward = 54.96
+Best mean reward = 73.14
+====================
+Current steps = 5297727
+Current epsilon = 0.01
+Current episode = 56800
+Current mean reward = 67.32
+Best mean reward = 73.14
+====================
+Current steps = 5308197
+Current epsilon = 0.01
+Current episode = 56900
+Current mean reward = 55.24
+Best mean reward = 73.14
+====================
+Current steps = 5319052
+Current epsilon = 0.01
+Current episode = 57000
+Current mean reward = 59.73
+Best mean reward = 73.14
+====================
+Current steps = 5330585
+Current epsilon = 0.01
+Current episode = 57100
+Current mean reward = 63.79
+Best mean reward = 73.14
+====================
+Current steps = 5341755
+Current epsilon = 0.01
+Current episode = 57200
+Current mean reward = 58.87
+Best mean reward = 73.14
+====================
+Current steps = 5352612
+Current epsilon = 0.01
+Current episode = 57300
+Current mean reward = 56.77
+Best mean reward = 73.14
+====================
+Current steps = 5364682
+Current epsilon = 0.01
+Current episode = 57400
+Current mean reward = 66.38
+Best mean reward = 73.14
+====================
+Current steps = 5377260
+Current epsilon = 0.01
+Current episode = 57500
+Current mean reward = 68.12
+Best mean reward = 73.14
+====================
+Current steps = 5390256
+Current epsilon = 0.01
+Current episode = 57600
+Current mean reward = 69.73
+Best mean reward = 73.14
+====================
+Current steps = 5402607
+Current epsilon = 0.01
+Current episode = 57700
+Current mean reward = 70.13
+Best mean reward = 73.49
+====================
+Current steps = 5414345
+Current epsilon = 0.01
+Current episode = 57800
+Current mean reward = 66.02
+Best mean reward = 73.49
+====================
+Current steps = 5425502
+Current epsilon = 0.01
+Current episode = 57900
+Current mean reward = 61.65
+Best mean reward = 73.49
+====================
+Current steps = 5436030
+Current epsilon = 0.01
+Current episode = 58000
+Current mean reward = 58.14
+Best mean reward = 73.49
+====================
+Current steps = 5447613
+Current epsilon = 0.01
+Current episode = 58100
+Current mean reward = 65.28
+Best mean reward = 73.49
+====================
+Current steps = 5459893
+Current epsilon = 0.01
+Current episode = 58200
+Current mean reward = 68.39
+Best mean reward = 73.49
+====================
+Current steps = 5471283
+Current epsilon = 0.01
+Current episode = 58300
+Current mean reward = 62.61
+Best mean reward = 73.49
+====================
+Current steps = 5481965
+Current epsilon = 0.01
+Current episode = 58400
+Current mean reward = 55.39
+Best mean reward = 73.49
+====================
+Current steps = 5492974
+Current epsilon = 0.01
+Current episode = 58500
+Current mean reward = 60.69
+Best mean reward = 73.49
+====================
+Current steps = 5503983
+Current epsilon = 0.01
+Current episode = 58600
+Current mean reward = 62.0
+Best mean reward = 73.49
+====================
+Current steps = 5516475
+Current epsilon = 0.01
+Current episode = 58700
+Current mean reward = 67.25
+Best mean reward = 73.49
+====================
+Current steps = 5526979
+Current epsilon = 0.01
+Current episode = 58800
+Current mean reward = 55.37
+Best mean reward = 73.49
+====================
+Current steps = 5538174
+Current epsilon = 0.01
+Current episode = 58900
+Current mean reward = 59.84
+Best mean reward = 73.49
+====================
+Current steps = 5549732
+Current epsilon = 0.01
+Current episode = 59000
+Current mean reward = 60.06
+Best mean reward = 73.49
+====================
+Current steps = 5561854
+Current epsilon = 0.01
+Current episode = 59100
+Current mean reward = 63.2
+Best mean reward = 73.49
+====================
+Current steps = 5573908
+Current epsilon = 0.01
+Current episode = 59200
+Current mean reward = 63.4
+Best mean reward = 73.49
+====================
+Current steps = 5585395
+Current epsilon = 0.01
+Current episode = 59300
+Current mean reward = 65.27
+Best mean reward = 73.49
+====================
+Current steps = 5596128
+Current epsilon = 0.01
+Current episode = 59400
+Current mean reward = 58.09
+Best mean reward = 73.49
+====================
+Current steps = 5607191
+Current epsilon = 0.01
+Current episode = 59500
+Current mean reward = 58.87
+Best mean reward = 73.49
+====================
+Current steps = 5619437
+Current epsilon = 0.01
+Current episode = 59600
+Current mean reward = 65.91
+Best mean reward = 73.49
+====================
+Current steps = 5630597
+Current epsilon = 0.01
+Current episode = 59700
+Current mean reward = 60.08
+Best mean reward = 73.49
+====================
+Current steps = 5643872
+Current epsilon = 0.01
+Current episode = 59800
+Current mean reward = 71.25
+Best mean reward = 73.49
+====================
+Current steps = 5655965
+Current epsilon = 0.01
+Current episode = 59900
+Current mean reward = 65.34
+Best mean reward = 73.49
+====================
+Current steps = 5668914
+Current epsilon = 0.01
+Current episode = 60000
+Current mean reward = 71.43
+Best mean reward = 73.49
+====================
+Current steps = 5680622
+Current epsilon = 0.01
+Current episode = 60100
+Current mean reward = 65.44
+Best mean reward = 73.49
+====================
+Current steps = 5691765
+Current epsilon = 0.01
+Current episode = 60200
+Current mean reward = 61.15
+Best mean reward = 73.49
+====================
+Current steps = 5703146
+Current epsilon = 0.01
+Current episode = 60300
+Current mean reward = 62.84
+Best mean reward = 73.49
+====================
+Current steps = 5715522
+Current epsilon = 0.01
+Current episode = 60400
+Current mean reward = 69.29
+Best mean reward = 73.49
+====================
+Current steps = 5727473
+Current epsilon = 0.01
+Current episode = 60500
+Current mean reward = 66.03
+Best mean reward = 73.49
+====================
+Current steps = 5739762
+Current epsilon = 0.01
+Current episode = 60600
+Current mean reward = 68.83
+Best mean reward = 73.49
+====================
+Current steps = 5753159
+Current epsilon = 0.01
+Current episode = 60700
+Current mean reward = 72.44
+Best mean reward = 73.49
+====================
+Current steps = 5765167
+Current epsilon = 0.01
+Current episode = 60800
+Current mean reward = 69.22
+Best mean reward = 76.34
+====================
+Current steps = 5776987
+Current epsilon = 0.01
+Current episode = 60900
+Current mean reward = 67.33
+Best mean reward = 76.34
+====================
+Current steps = 5788881
+Current epsilon = 0.01
+Current episode = 61000
+Current mean reward = 67.01
+Best mean reward = 76.34
+====================
+Current steps = 5800326
+Current epsilon = 0.01
+Current episode = 61100
+Current mean reward = 64.03
+Best mean reward = 76.34
+====================
+Current steps = 5812759
+Current epsilon = 0.01
+Current episode = 61200
+Current mean reward = 70.03
+Best mean reward = 76.34
+====================
+Current steps = 5824011
+Current epsilon = 0.01
+Current episode = 61300
+Current mean reward = 62.09
+Best mean reward = 76.34
+====================
+Current steps = 5837258
+Current epsilon = 0.01
+Current episode = 61400
+Current mean reward = 72.93
+Best mean reward = 76.34
+====================
+Current steps = 5847795
+Current epsilon = 0.01
+Current episode = 61500
+Current mean reward = 57.34
+Best mean reward = 76.34
+====================
+Current steps = 5860040
+Current epsilon = 0.01
+Current episode = 61600
+Current mean reward = 67.92
+Best mean reward = 76.34
+====================
+Current steps = 5871719
+Current epsilon = 0.01
+Current episode = 61700
+Current mean reward = 65.86
+Best mean reward = 76.34
+====================
+Current steps = 5884337
+Current epsilon = 0.01
+Current episode = 61800
+Current mean reward = 68.11
+Best mean reward = 76.34
+====================
+Current steps = 5896779
+Current epsilon = 0.01
+Current episode = 61900
+Current mean reward = 69.92
+Best mean reward = 76.34
+====================
+Current steps = 5908929
+Current epsilon = 0.01
+Current episode = 62000
+Current mean reward = 66.88
+Best mean reward = 76.34
+====================
+Current steps = 5920892
+Current epsilon = 0.01
+Current episode = 62100
+Current mean reward = 67.18
+Best mean reward = 76.34
+====================
+Current steps = 5932189
+Current epsilon = 0.01
+Current episode = 62200
+Current mean reward = 60.27
+Best mean reward = 76.34
+====================
+Current steps = 5944231
+Current epsilon = 0.01
+Current episode = 62300
+Current mean reward = 63.76
+Best mean reward = 76.34
+====================
+Current steps = 5955994
+Current epsilon = 0.01
+Current episode = 62400
+Current mean reward = 65.97
+Best mean reward = 76.34
+====================
+Current steps = 5968527
+Current epsilon = 0.01
+Current episode = 62500
+Current mean reward = 72.02
+Best mean reward = 76.34
+====================
+Current steps = 5981123
+Current epsilon = 0.01
+Current episode = 62600
+Current mean reward = 70.56
+Best mean reward = 76.34
+====================
+Current steps = 5993085
+Current epsilon = 0.01
+Current episode = 62700
+Current mean reward = 65.96
+Best mean reward = 76.34
+====================
+Current steps = 6005460
+Current epsilon = 0.01
+Current episode = 62800
+Current mean reward = 67.51
+Best mean reward = 76.34
+====================
+Current steps = 6017300
+Current epsilon = 0.01
+Current episode = 62900
+Current mean reward = 65.79
+Best mean reward = 76.34
+====================
+Current steps = 6028706
+Current epsilon = 0.01
+Current episode = 63000
+Current mean reward = 64.64
+Best mean reward = 76.34
+====================
+Current steps = 6040003
+Current epsilon = 0.01
+Current episode = 63100
+Current mean reward = 64.21
+Best mean reward = 76.34
+====================
+Current steps = 6051911
+Current epsilon = 0.01
+Current episode = 63200
+Current mean reward = 64.77
+Best mean reward = 76.34
+====================
+Current steps = 6062470
+Current epsilon = 0.01
+Current episode = 63300
+Current mean reward = 58.63
+Best mean reward = 76.34
+====================
+Current steps = 6075251
+Current epsilon = 0.01
+Current episode = 63400
+Current mean reward = 70.18
+Best mean reward = 76.34
+====================
+Current steps = 6086343
+Current epsilon = 0.01
+Current episode = 63500
+Current mean reward = 57.55
+Best mean reward = 76.34
+====================
+Current steps = 6098493
+Current epsilon = 0.01
+Current episode = 63600
+Current mean reward = 67.01
+Best mean reward = 76.34
+====================
+Current steps = 6110416
+Current epsilon = 0.01
+Current episode = 63700
+Current mean reward = 62.31
+Best mean reward = 76.34
+====================
+Current steps = 6123678
+Current epsilon = 0.01
+Current episode = 63800
+Current mean reward = 73.67
+Best mean reward = 76.34
+====================
+Current steps = 6135356
+Current epsilon = 0.01
+Current episode = 63900
+Current mean reward = 67.05
+Best mean reward = 76.34
+====================
+Current steps = 6146482
+Current epsilon = 0.01
+Current episode = 64000
+Current mean reward = 61.13
+Best mean reward = 76.34
+====================
+Current steps = 6158352
+Current epsilon = 0.01
+Current episode = 64100
+Current mean reward = 64.39
+Best mean reward = 76.34
+====================
+Current steps = 6170546
+Current epsilon = 0.01
+Current episode = 64200
+Current mean reward = 66.93
+Best mean reward = 76.34
+====================
+Current steps = 6183817
+Current epsilon = 0.01
+Current episode = 64300
+Current mean reward = 76.6
+Best mean reward = 82.53
+====================
+Current steps = 6195123
+Current epsilon = 0.01
+Current episode = 64400
+Current mean reward = 64.73
+Best mean reward = 82.53
+====================
+Current steps = 6206589
+Current epsilon = 0.01
+Current episode = 64500
+Current mean reward = 63.56
+Best mean reward = 82.53
+====================
+Current steps = 6219546
+Current epsilon = 0.01
+Current episode = 64600
+Current mean reward = 68.32
+Best mean reward = 82.53
+====================
+Current steps = 6231213
+Current epsilon = 0.01
+Current episode = 64700
+Current mean reward = 62.37
+Best mean reward = 82.53
+====================
+Current steps = 6242885
+Current epsilon = 0.01
+Current episode = 64800
+Current mean reward = 62.72
+Best mean reward = 82.53
+====================
+Current steps = 6255818
+Current epsilon = 0.01
+Current episode = 64900
+Current mean reward = 70.39
+Best mean reward = 82.53
+====================
+Current steps = 6268914
+Current epsilon = 0.01
+Current episode = 65000
+Current mean reward = 72.14
+Best mean reward = 82.53
+====================
+Current steps = 6281775
+Current epsilon = 0.01
+Current episode = 65100
+Current mean reward = 69.96
+Best mean reward = 82.53
+====================
+Current steps = 6294977
+Current epsilon = 0.01
+Current episode = 65200
+Current mean reward = 74.06
+Best mean reward = 82.53
+====================
+Current steps = 6307812
+Current epsilon = 0.01
+Current episode = 65300
+Current mean reward = 69.66
+Best mean reward = 82.53
+====================
+Current steps = 6320024
+Current epsilon = 0.01
+Current episode = 65400
+Current mean reward = 67.32
+Best mean reward = 82.53
+====================
+Current steps = 6331793
+Current epsilon = 0.01
+Current episode = 65500
+Current mean reward = 65.84
+Best mean reward = 82.53
+====================
+Current steps = 6344597
+Current epsilon = 0.01
+Current episode = 65600
+Current mean reward = 71.37
+Best mean reward = 82.53
+====================
+Current steps = 6356370
+Current epsilon = 0.01
+Current episode = 65700
+Current mean reward = 66.09
+Best mean reward = 82.53
+====================
+Current steps = 6368963
+Current epsilon = 0.01
+Current episode = 65800
+Current mean reward = 70.12
+Best mean reward = 82.53
+====================
+Current steps = 6381838
+Current epsilon = 0.01
+Current episode = 65900
+Current mean reward = 68.13
+Best mean reward = 82.53
+====================
+Current steps = 6394425
+Current epsilon = 0.01
+Current episode = 66000
+Current mean reward = 69.88
+Best mean reward = 82.53
+====================
+Current steps = 6406247
+Current epsilon = 0.01
+Current episode = 66100
+Current mean reward = 67.6
+Best mean reward = 82.53
+====================
+Current steps = 6418840
+Current epsilon = 0.01
+Current episode = 66200
+Current mean reward = 71.24
+Best mean reward = 82.53
+====================
+Current steps = 6431021
+Current epsilon = 0.01
+Current episode = 66300
+Current mean reward = 67.71
+Best mean reward = 82.53
+====================
+Current steps = 6442583
+Current epsilon = 0.01
+Current episode = 66400
+Current mean reward = 64.47
+Best mean reward = 82.53
+====================
+Current steps = 6454259
+Current epsilon = 0.01
+Current episode = 66500
+Current mean reward = 63.83
+Best mean reward = 82.53
+====================
+Current steps = 6466517
+Current epsilon = 0.01
+Current episode = 66600
+Current mean reward = 70.67
+Best mean reward = 82.53
+====================
+Current steps = 6479587
+Current epsilon = 0.01
+Current episode = 66700
+Current mean reward = 72.43
+Best mean reward = 82.53
+====================
+Current steps = 6490995
+Current epsilon = 0.01
+Current episode = 66800
+Current mean reward = 63.85
+Best mean reward = 82.53
+====================
+Current steps = 6503538
+Current epsilon = 0.01
+Current episode = 66900
+Current mean reward = 68.03
+Best mean reward = 82.53
+====================
+Current steps = 6516135
+Current epsilon = 0.01
+Current episode = 67000
+Current mean reward = 71.26
+Best mean reward = 82.53
+====================
+Current steps = 6528743
+Current epsilon = 0.01
+Current episode = 67100
+Current mean reward = 72.05
+Best mean reward = 82.53
+====================
+Current steps = 6540321
+Current epsilon = 0.01
+Current episode = 67200
+Current mean reward = 63.33
+Best mean reward = 82.53
+====================
+Current steps = 6552605
+Current epsilon = 0.01
+Current episode = 67300
+Current mean reward = 70.26
+Best mean reward = 82.53
+====================
+Current steps = 6564490
+Current epsilon = 0.01
+Current episode = 67400
+Current mean reward = 65.8
+Best mean reward = 82.53
+====================
+Current steps = 6576591
+Current epsilon = 0.01
+Current episode = 67500
+Current mean reward = 67.57
+Best mean reward = 82.53
+====================
+Current steps = 6588768
+Current epsilon = 0.01
+Current episode = 67600
+Current mean reward = 67.66
+Best mean reward = 82.53
+====================
+Current steps = 6601574
+Current epsilon = 0.01
+Current episode = 67700
+Current mean reward = 71.88
+Best mean reward = 82.53
+====================
+Current steps = 6613339
+Current epsilon = 0.01
+Current episode = 67800
+Current mean reward = 66.07
+Best mean reward = 82.53
+====================
+Current steps = 6623920
+Current epsilon = 0.01
+Current episode = 67900
+Current mean reward = 56.04
+Best mean reward = 82.53
+====================
+Current steps = 6636351
+Current epsilon = 0.01
+Current episode = 68000
+Current mean reward = 71.36
+Best mean reward = 82.53
+====================
+Current steps = 6648372
+Current epsilon = 0.01
+Current episode = 68100
+Current mean reward = 68.55
+Best mean reward = 82.53
+====================
+Current steps = 6661147
+Current epsilon = 0.01
+Current episode = 68200
+Current mean reward = 67.76
+Best mean reward = 82.53
+====================
+Current steps = 6672604
+Current epsilon = 0.01
+Current episode = 68300
+Current mean reward = 63.58
+Best mean reward = 82.53
+====================
+Current steps = 6684373
+Current epsilon = 0.01
+Current episode = 68400
+Current mean reward = 64.72
+Best mean reward = 82.53
+====================
+Current steps = 6697391
+Current epsilon = 0.01
+Current episode = 68500
+Current mean reward = 74.91
+Best mean reward = 82.53
+====================
+Current steps = 6709205
+Current epsilon = 0.01
+Current episode = 68600
+Current mean reward = 64.55
+Best mean reward = 82.53
+====================
+Current steps = 6722386
+Current epsilon = 0.01
+Current episode = 68700
+Current mean reward = 76.98
+Best mean reward = 82.53
+====================
+Current steps = 6734207
+Current epsilon = 0.01
+Current episode = 68800
+Current mean reward = 65.68
+Best mean reward = 82.53
+====================
+Current steps = 6746499
+Current epsilon = 0.01
+Current episode = 68900
+Current mean reward = 66.15
+Best mean reward = 82.53
+====================
+Current steps = 6759018
+Current epsilon = 0.01
+Current episode = 69000
+Current mean reward = 68.38
+Best mean reward = 82.53
+====================
+Current steps = 6769693
+Current epsilon = 0.01
+Current episode = 69100
+Current mean reward = 59.69
+Best mean reward = 82.53
+====================
+Current steps = 6782373
+Current epsilon = 0.01
+Current episode = 69200
+Current mean reward = 70.77
+Best mean reward = 82.53
+====================
+Current steps = 6794759
+Current epsilon = 0.01
+Current episode = 69300
+Current mean reward = 70.89
+Best mean reward = 82.53
+====================
+Current steps = 6805931
+Current epsilon = 0.01
+Current episode = 69400
+Current mean reward = 62.48
+Best mean reward = 82.53
+====================
+Current steps = 6817953
+Current epsilon = 0.01
+Current episode = 69500
+Current mean reward = 67.53
+Best mean reward = 82.53
+====================
+Current steps = 6829903
+Current epsilon = 0.01
+Current episode = 69600
+Current mean reward = 66.55
+Best mean reward = 82.53
+====================
+Current steps = 6841654
+Current epsilon = 0.01
+Current episode = 69700
+Current mean reward = 64.58
+Best mean reward = 82.53
+====================
+Current steps = 6853227
+Current epsilon = 0.01
+Current episode = 69800
+Current mean reward = 63.65
+Best mean reward = 82.53
+====================
+Current steps = 6864192
+Current epsilon = 0.01
+Current episode = 69900
+Current mean reward = 64.17
+Best mean reward = 82.53
+====================
+Current steps = 6876131
+Current epsilon = 0.01
+Current episode = 70000
+Current mean reward = 66.99
+Best mean reward = 82.53
+====================
+Current steps = 6888798
+Current epsilon = 0.01
+Current episode = 70100
+Current mean reward = 72.08
+Best mean reward = 82.53
+====================
+Current steps = 6900913
+Current epsilon = 0.01
+Current episode = 70200
+Current mean reward = 69.99
+Best mean reward = 82.53
+====================
+Current steps = 6913466
+Current epsilon = 0.01
+Current episode = 70300
+Current mean reward = 71.45
+Best mean reward = 82.53
+====================
+Current steps = 6925931
+Current epsilon = 0.01
+Current episode = 70400
+Current mean reward = 70.02
+Best mean reward = 82.53
+====================
+Current steps = 6938693
+Current epsilon = 0.01
+Current episode = 70500
+Current mean reward = 68.73
+Best mean reward = 82.53
+====================
+Current steps = 6952146
+Current epsilon = 0.01
+Current episode = 70600
+Current mean reward = 74.38
+Best mean reward = 82.53
+====================
+Current steps = 6964727
+Current epsilon = 0.01
+Current episode = 70700
+Current mean reward = 69.21
+Best mean reward = 82.53
+====================
+Current steps = 6976849
+Current epsilon = 0.01
+Current episode = 70800
+Current mean reward = 69.71
+Best mean reward = 82.53
+====================
+Current steps = 6989870
+Current epsilon = 0.01
+Current episode = 70900
+Current mean reward = 71.53
+Best mean reward = 82.53
+====================
+Current steps = 7001931
+Current epsilon = 0.01
+Current episode = 71000
+Current mean reward = 67.52
+Best mean reward = 82.53
+====================
+Current steps = 7015732
+Current epsilon = 0.01
+Current episode = 71100
+Current mean reward = 78.81
+Best mean reward = 82.53
+====================
+Current steps = 7028171
+Current epsilon = 0.01
+Current episode = 71200
+Current mean reward = 70.58
+Best mean reward = 82.53
+====================
+Current steps = 7039703
+Current epsilon = 0.01
+Current episode = 71300
+Current mean reward = 63.08
+Best mean reward = 82.53
+====================
+Current steps = 7052213
+Current epsilon = 0.01
+Current episode = 71400
+Current mean reward = 68.35
+Best mean reward = 82.53
+====================
+Current steps = 7065796
+Current epsilon = 0.01
+Current episode = 71500
+Current mean reward = 75.29
+Best mean reward = 82.53
+====================
+Current steps = 7078663
+Current epsilon = 0.01
+Current episode = 71600
+Current mean reward = 69.78
+Best mean reward = 82.53
+====================
+Current steps = 7092000
+Current epsilon = 0.01
+Current episode = 71700
+Current mean reward = 75.49
+Best mean reward = 82.53
+====================
+Current steps = 7104439
+Current epsilon = 0.01
+Current episode = 71800
+Current mean reward = 69.52
+Best mean reward = 82.53
+====================
+Current steps = 7116960
+Current epsilon = 0.01
+Current episode = 71900
+Current mean reward = 69.58
+Best mean reward = 82.53
+====================
+Current steps = 7129436
+Current epsilon = 0.01
+Current episode = 72000
+Current mean reward = 69.53
+Best mean reward = 82.53
+====================
+Current steps = 7142198
+Current epsilon = 0.01
+Current episode = 72100
+Current mean reward = 69.48
+Best mean reward = 82.53
+====================
+Current steps = 7155548
+Current epsilon = 0.01
+Current episode = 72200
+Current mean reward = 75.74
+Best mean reward = 82.53
+====================
+Current steps = 7168938
+Current epsilon = 0.01
+Current episode = 72300
+Current mean reward = 73.49
+Best mean reward = 82.53
+====================
+Current steps = 7181445
+Current epsilon = 0.01
+Current episode = 72400
+Current mean reward = 68.8
+Best mean reward = 82.53
+====================
+Current steps = 7194595
+Current epsilon = 0.01
+Current episode = 72500
+Current mean reward = 75.4
+Best mean reward = 82.53
+====================
+Current steps = 7207323
+Current epsilon = 0.01
+Current episode = 72600
+Current mean reward = 69.79
+Best mean reward = 82.53
+====================
+Current steps = 7219364
+Current epsilon = 0.01
+Current episode = 72700
+Current mean reward = 68.12
+Best mean reward = 82.53
+====================
+Current steps = 7232774
+Current epsilon = 0.01
+Current episode = 72800
+Current mean reward = 74.21
+Best mean reward = 82.53
+====================
+Current steps = 7244281
+Current epsilon = 0.01
+Current episode = 72900
+Current mean reward = 59.89
+Best mean reward = 82.53
+====================
+Current steps = 7256270
+Current epsilon = 0.01
+Current episode = 73000
+Current mean reward = 67.97
+Best mean reward = 82.53
+====================
+Current steps = 7267813
+Current epsilon = 0.01
+Current episode = 73100
+Current mean reward = 66.14
+Best mean reward = 82.53
+====================
+Current steps = 7280161
+Current epsilon = 0.01
+Current episode = 73200
+Current mean reward = 68.48
+Best mean reward = 82.53
+====================
+Current steps = 7293005
+Current epsilon = 0.01
+Current episode = 73300
+Current mean reward = 72.85
+Best mean reward = 82.53
+====================
+Current steps = 7305495
+Current epsilon = 0.01
+Current episode = 73400
+Current mean reward = 70.72
+Best mean reward = 82.53
+====================
+Current steps = 7318346
+Current epsilon = 0.01
+Current episode = 73500
+Current mean reward = 72.91
+Best mean reward = 82.53
+====================
+Current steps = 7330868
+Current epsilon = 0.01
+Current episode = 73600
+Current mean reward = 73.47
+Best mean reward = 82.53
+====================
+Current steps = 7342644
+Current epsilon = 0.01
+Current episode = 73700
+Current mean reward = 67.31
+Best mean reward = 82.53
+====================
+Current steps = 7354362
+Current epsilon = 0.01
+Current episode = 73800
+Current mean reward = 66.86
+Best mean reward = 82.53
+====================
+Current steps = 7366542
+Current epsilon = 0.01
+Current episode = 73900
+Current mean reward = 70.52
+Best mean reward = 82.53
+====================
+Current steps = 7379236
+Current epsilon = 0.01
+Current episode = 74000
+Current mean reward = 72.35
+Best mean reward = 82.53
+====================
+Current steps = 7392169
+Current epsilon = 0.01
+Current episode = 74100
+Current mean reward = 72.22
+Best mean reward = 82.53
+====================
+Current steps = 7404026
+Current epsilon = 0.01
+Current episode = 74200
+Current mean reward = 66.53
+Best mean reward = 82.53
+====================
+Current steps = 7416375
+Current epsilon = 0.01
+Current episode = 74300
+Current mean reward = 69.71
+Best mean reward = 82.53
+====================
+Current steps = 7429345
+Current epsilon = 0.01
+Current episode = 74400
+Current mean reward = 73.9
+Best mean reward = 82.53
+====================
+Current steps = 7442626
+Current epsilon = 0.01
+Current episode = 74500
+Current mean reward = 75.17
+Best mean reward = 82.53
+====================
+Current steps = 7454972
+Current epsilon = 0.01
+Current episode = 74600
+Current mean reward = 70.98
+Best mean reward = 82.53
+====================
+Current steps = 7467633
+Current epsilon = 0.01
+Current episode = 74700
+Current mean reward = 70.61
+Best mean reward = 82.53
+====================
+Current steps = 7481480
+Current epsilon = 0.01
+Current episode = 74800
+Current mean reward = 79.51
+Best mean reward = 82.53
+====================
+Current steps = 7495175
+Current epsilon = 0.01
+Current episode = 74900
+Current mean reward = 75.74
+Best mean reward = 82.53
+====================
+Current steps = 7507990
+Current epsilon = 0.01
+Current episode = 75000
+Current mean reward = 72.42
+Best mean reward = 82.53
+====================
+Current steps = 7519903
+Current epsilon = 0.01
+Current episode = 75100
+Current mean reward = 67.46
+Best mean reward = 82.53
+====================
+Current steps = 7531839
+Current epsilon = 0.01
+Current episode = 75200
+Current mean reward = 68.15
+Best mean reward = 82.53
+====================
+Current steps = 7544661
+Current epsilon = 0.01
+Current episode = 75300
+Current mean reward = 73.45
+Best mean reward = 82.53
+====================
+Current steps = 7556852
+Current epsilon = 0.01
+Current episode = 75400
+Current mean reward = 69.84
+Best mean reward = 82.53
+====================
+Current steps = 7568802
+Current epsilon = 0.01
+Current episode = 75500
+Current mean reward = 64.68
+Best mean reward = 82.53
+====================
+Current steps = 7582191
+Current epsilon = 0.01
+Current episode = 75600
+Current mean reward = 72.34
+Best mean reward = 82.53
+====================
+Current steps = 7595284
+Current epsilon = 0.01
+Current episode = 75700
+Current mean reward = 73.98
+Best mean reward = 82.53
+====================
+Current steps = 7607347
+Current epsilon = 0.01
+Current episode = 75800
+Current mean reward = 67.13
+Best mean reward = 82.53
+====================
+Current steps = 7620604
+Current epsilon = 0.01
+Current episode = 75900
+Current mean reward = 74.66
+Best mean reward = 82.53
+====================
+Current steps = 7633033
+Current epsilon = 0.01
+Current episode = 76000
+Current mean reward = 69.4
+Best mean reward = 82.53
+====================
+Current steps = 7646623
+Current epsilon = 0.01
+Current episode = 76100
+Current mean reward = 76.81
+Best mean reward = 82.53
+====================
+Current steps = 7659036
+Current epsilon = 0.01
+Current episode = 76200
+Current mean reward = 68.71
+Best mean reward = 82.53
+====================
+Current steps = 7673281
+Current epsilon = 0.01
+Current episode = 76300
+Current mean reward = 79.84
+Best mean reward = 82.97
+====================
+Current steps = 7685164
+Current epsilon = 0.01
+Current episode = 76400
+Current mean reward = 66.33
+Best mean reward = 82.97
+====================
+Current steps = 7698270
+Current epsilon = 0.01
+Current episode = 76500
+Current mean reward = 75.95
+Best mean reward = 82.97
+====================
+Current steps = 7711230
+Current epsilon = 0.01
+Current episode = 76600
+Current mean reward = 71.0
+Best mean reward = 82.97
+====================
+Current steps = 7724696
+Current epsilon = 0.01
+Current episode = 76700
+Current mean reward = 74.01
+Best mean reward = 82.97
+====================
+Current steps = 7736781
+Current epsilon = 0.01
+Current episode = 76800
+Current mean reward = 67.13
+Best mean reward = 82.97
+====================
+Current steps = 7749829
+Current epsilon = 0.01
+Current episode = 76900
+Current mean reward = 74.07
+Best mean reward = 82.97
+====================
+Current steps = 7763257
+Current epsilon = 0.01
+Current episode = 77000
+Current mean reward = 77.92
+Best mean reward = 82.97
+====================
+Current steps = 7776480
+Current epsilon = 0.01
+Current episode = 77100
+Current mean reward = 76.47
+Best mean reward = 82.97
+====================
+Current steps = 7787522
+Current epsilon = 0.01
+Current episode = 77200
+Current mean reward = 63.43
+Best mean reward = 82.97
+====================
+Current steps = 7801427
+Current epsilon = 0.01
+Current episode = 77300
+Current mean reward = 79.3
+Best mean reward = 82.97
+====================
+Current steps = 7814775
+Current epsilon = 0.01
+Current episode = 77400
+Current mean reward = 76.81
+Best mean reward = 82.97
+====================
+Current steps = 7828665
+Current epsilon = 0.01
+Current episode = 77500
+Current mean reward = 80.0
+Best mean reward = 82.97
+====================
+Current steps = 7841434
+Current epsilon = 0.01
+Current episode = 77600
+Current mean reward = 72.62
+Best mean reward = 82.97
+====================
+Current steps = 7855368
+Current epsilon = 0.01
+Current episode = 77700
+Current mean reward = 77.91
+Best mean reward = 82.97
+====================
+Current steps = 7869120
+Current epsilon = 0.01
+Current episode = 77800
+Current mean reward = 81.51
+Best mean reward = 85.46
+====================
+Current steps = 7880916
+Current epsilon = 0.01
+Current episode = 77900
+Current mean reward = 67.72
+Best mean reward = 85.46
+====================
+Current steps = 7893466
+Current epsilon = 0.01
+Current episode = 78000
+Current mean reward = 71.49
+Best mean reward = 85.46
+====================
+Current steps = 7906201
+Current epsilon = 0.01
+Current episode = 78100
+Current mean reward = 74.02
+Best mean reward = 85.46
+====================
+Current steps = 7919431
+Current epsilon = 0.01
+Current episode = 78200
+Current mean reward = 73.8
+Best mean reward = 85.46
+====================
+Current steps = 7932402
+Current epsilon = 0.01
+Current episode = 78300
+Current mean reward = 72.03
+Best mean reward = 85.46
+====================
+Current steps = 7945757
+Current epsilon = 0.01
+Current episode = 78400
+Current mean reward = 78.91
+Best mean reward = 85.46
+====================
+Current steps = 7957991
+Current epsilon = 0.01
+Current episode = 78500
+Current mean reward = 67.76
+Best mean reward = 85.46
+====================
+Current steps = 7970835
+Current epsilon = 0.01
+Current episode = 78600
+Current mean reward = 71.82
+Best mean reward = 85.46
+====================
+Current steps = 7984480
+Current epsilon = 0.01
+Current episode = 78700
+Current mean reward = 76.7
+Best mean reward = 85.46
+====================
+Current steps = 7995855
+Current epsilon = 0.01
+Current episode = 78800
+Current mean reward = 67.11
+Best mean reward = 85.46
+====================
+Current steps = 8008417
+Current epsilon = 0.01
+Current episode = 78900
+Current mean reward = 71.21
+Best mean reward = 85.46
+====================
+Current steps = 8020592
+Current epsilon = 0.01
+Current episode = 79000
+Current mean reward = 69.74
+Best mean reward = 85.46
+====================
+Current steps = 8033293
+Current epsilon = 0.01
+Current episode = 79100
+Current mean reward = 73.06
+Best mean reward = 85.46
+====================
+Current steps = 8045783
+Current epsilon = 0.01
+Current episode = 79200
+Current mean reward = 69.43
+Best mean reward = 85.46
+====================
+Current steps = 8058552
+Current epsilon = 0.01
+Current episode = 79300
+Current mean reward = 70.81
+Best mean reward = 85.46
+====================
+Current steps = 8071271
+Current epsilon = 0.01
+Current episode = 79400
+Current mean reward = 68.98
+Best mean reward = 85.46
+====================
+Current steps = 8083451
+Current epsilon = 0.01
+Current episode = 79500
+Current mean reward = 64.71
+Best mean reward = 85.46
+====================
+Current steps = 8095303
+Current epsilon = 0.01
+Current episode = 79600
+Current mean reward = 64.69
+Best mean reward = 85.46
+====================
+Current steps = 8108070
+Current epsilon = 0.01
+Current episode = 79700
+Current mean reward = 71.37
+Best mean reward = 85.46
+====================
+Current steps = 8120980
+Current epsilon = 0.01
+Current episode = 79800
+Current mean reward = 70.8
+Best mean reward = 85.46
+====================
+Current steps = 8135508
+Current epsilon = 0.01
+Current episode = 79900
+Current mean reward = 83.65
+Best mean reward = 85.46
+====================
+Current steps = 8147935
+Current epsilon = 0.01
+Current episode = 80000
+Current mean reward = 70.41
+Best mean reward = 85.46
