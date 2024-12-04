@@ -19,7 +19,7 @@ default_dqn_1:
 
   # Exploration parameters
   initial_epsilon: 1.0
-  epsilon_min: 0.01
+  epsilon_min: 0.1
   decay_rate: 70000  # Updated decay rate
   epsilon_decay: 0.999
 
@@ -35,4 +35,300 @@ default_dqn_1:
   train_dqn: True
   test_dqn: False
 
+# Test Low Learning Rate 
+low_lr: 
+  name: "default"
+  note: "low_lr"
+
+  # Network parameters
+  learning_rate: 0.00001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_lr_0_00001"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_low_lr.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# Test Moderate Learning Rate 
+moderate_lr: 
+  name: "default"
+  note: "mod_lr"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_lr_0_0001"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_mod_lr.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
   
+# Test High Learning Rate
+high_lr: 
+  name: "default"
+  note: "high_lr"
+
+  # Network parameters
+  learning_rate: 0.001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_lr_0_001"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_high_lr.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# Test Larger batch size 
+batch_128: 
+  name: "default"
+  note: "batch_128"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 128  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_batch_128"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_batch_128.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# Test target update frequency 
+# Test Low Frequency 
+low_freq: 
+  name: "default"
+  note: "low_freq"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 5000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_low_freq"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_low_freq.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# Test high Frequency 
+high_freq: 
+  name: "default"
+  note: "high_freq"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 20000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.1
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_high_freq"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_high_freq.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# Test Different Final Epsilon 
+# Low Final Epsilon 
+low_epsilon: 
+  name: "default"
+  note: "low_epsilon"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_low_epsilon"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_low_epsilon.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+# High Final Epsilon 
+high_epsilon: 
+  name: "default"
+  note: "high_epsilon"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "rmsprop"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "std_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 70000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.2
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test_high_epsilon"  # Added log directory
+
+  dqn_type: "double dueling dqn"  # Added DQN type
+
+  model_path: "models/test_high_epsilon.pth"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
