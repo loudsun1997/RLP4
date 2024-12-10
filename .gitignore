@@ -1,3 +1,4 @@
 .DS_Store
 __pycache__/
 Project4/__pycache__
+SWIN-DQN_rsf/slurm-*.out

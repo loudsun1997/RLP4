@@ -57,6 +57,15 @@ def matplotlib_plot_all(p):
     epoch_num = len(p['steps'])
     epochs = np.arange(epoch_num)
     steps = p['steps']
+
+    # Plot Episode Reward (Averaged over Last 30 Episodes)
+    rolling_avg_episode_reward = rolling_average(p['episode_reward'], n=30)
+    plot_dict_losses({'avg episode reward': {'index':epochs[-len(rolling_avg_episode_reward):],
+                                             'val':rolling_avg_episode_reward}},
+                     name=os.path.join(model_base_filedir, 'episode_avg_reward.png'),
+                     rolling_length=0)
+
+    # Existing plots
     plot_dict_losses({'episode steps':{'index':epochs,'val':p['episode_step']}}, name=os.path.join(model_base_filedir, 'episode_step.png'), rolling_length=0)
     plot_dict_losses({'episode steps':{'index':epochs,'val':p['episode_relative_times']}}, name=os.path.join(model_base_filedir, 'episode_relative_times.png'), rolling_length=10)
     plot_dict_losses({'episode head':{'index':epochs, 'val':p['episode_head']}}, name=os.path.join(model_base_filedir, 'episode_head.png'), rolling_length=0)
@@ -79,6 +88,7 @@ def matplotlib_plot_all(p):
 
     plot_dict_losses({'eval rewards':{'index':np.array(p['eval_steps'])[eval_steps_mask], 'val':np.array(p['eval_rewards'])[eval_rewards_mask]}}, name=os.path.join(model_base_filedir, 'eval_rewards_steps.png'), rolling_length=0)
     plot_dict_losses({'highest eval score':{'index':np.array(p['eval_steps'])[eval_steps_mask], 'val':np.array(p['highest_eval_score'])[eval_score_mask]}}, name=os.path.join(model_base_filedir, 'highest_eval_score.png'), rolling_length=0)
+
 
 def handle_checkpoint(last_save, cnt):
     if (cnt-last_save) >= info['CHECKPOINT_EVERY_STEPS']:
@@ -454,7 +464,7 @@ if __name__ == '__main__':
         "RANDOM_HEAD":-1, # just used in plotting as demarcation
         "NETWORK_INPUT_SIZE":(84,84),
         "START_TIME":time.time(),
-        "MAX_STEPS":int(10e6), # 50e6 steps is 200e6 frames > e6 is million
+        "MAX_STEPS":int(20e6), # 50e6 steps is 200e6 frames > e6 is million
         "MAX_EPISODE_STEPS":27000, # Orig dqn give 18k steps, Rainbow seems to give 27k steps
         "FRAME_SKIP":4, # deterministic frame skips to match deepmind
         "MAX_NO_OP_FRAMES":30, # random number of noops applied to beginning of each episode
