@@ -44,7 +44,7 @@ class DQN(nn.Module):
         self.fc2 = nn.Linear(512, num_actions)
     def forward(self, x):
         """
-        In the forward function we accept a Tensor of input data and we must return
+        In the forward function we accept a Tensor of input data and we must rneturn
         a Tensor of output data. We can use Modules defined in the constructor as
         well as arbitrary operators on Tensors.
         """
@@ -108,3 +108,47 @@ class DuelingDQN(nn.Module):
         qvals = values + (advantages - advantages.mean())
         
         return qvals
+    
+class ActorCritic(nn.Module):
+    """
+    Actor-Critic model implementation with GRU.
+    Actor predicts the policy (probabilities of actions).
+    Critic predicts the value of the state.
+    """
+    def __init__(self, in_channels=4, num_actions=4):
+        super(ActorCritic, self).__init__()
+        
+        # Shared Convolutional Layers
+        self.conv1 = nn.Conv2d(in_channels, 32, kernel_size=8, stride=4)
+        self.conv2 = nn.Conv2d(32, 64, kernel_size=4, stride=2)
+        self.conv3 = nn.Conv2d(64, 64, kernel_size=3, stride=1)
+        
+        # GRU for temporal memory
+        self.gru = nn.GRUCell(64 * 7 * 7, 512)  # Input size matches flattened feature size
+        
+        # Actor head
+        self.actor = nn.Linear(512, num_actions)  # Outputs logits for actions
+        
+        # Critic head
+        self.critic = nn.Linear(512, 1)  # Outputs state value
+
+    def forward(self, inputs):
+        """
+        Forward pass through the shared layers, GRU, actor head, and critic head.
+        """
+        state, hx = inputs  # Inputs consist of the state and hidden state
+
+        # Convolutional layers
+        x = F.relu(self.conv1(state))
+        x = F.relu(self.conv2(x))
+        x = F.relu(self.conv3(x))
+        
+        # Flatten and pass through GRU
+        x = torch.flatten(x, start_dim=1)
+        hx = self.gru(x, hx)  # Update hidden state using GRU
+        
+        # Actor and Critic outputs
+        policy_logits = self.actor(hx)
+        value = self.critic(hx)
+        
+        return policy_logits, value, hx

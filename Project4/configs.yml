@@ -35,4 +35,212 @@ default_dqn_1:
   train_dqn: True
   test_dqn: False
 
-  
+# Default DQN configuration for Ms. Pac-Man
+no_clip_actor:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/no_clip_actor"  # Added log directory
+
+  dqn_type: "no_clip_actor"  # Added DQN type
+
+  model_path: "no_clip_actor"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+no_clip_entropy_normalized:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/no_clip_entropy_normalized"  # Added log directory
+
+  dqn_type: "no_clip_entropy_normalized"  # Added DQN type
+
+  model_path: "no_clip_entropy_normalized"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+final:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/final"  # Added log directory
+
+  dqn_type: "final"  # Added DQN type
+
+  model_path: "final"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+a2c:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Added optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Added buffer type
+  buffer_size: 100000
+  batch_size: 64  # Updated batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Updated target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Updated decay rate
+  epsilon_decay: 0.999
+
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/a2c"  # Added log directory
+
+  dqn_type: "a2c"  # Added DQN type
+
+  model_path: "a2c"  # Added model path
+
+  train_dqn: True
+  test_dqn: False
+
+a2c_test:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"  # Optimizer parameter
+
+  # Memory parameters
+  buffer_type: "prioritized_buff"  # Buffer type
+  buffer_size: 100000
+  batch_size: 64  # Batch size
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+  target_update_freq: 10000  # Target update frequency
+
+  # Exploration parameters
+  initial_epsilon: 1.0
+  epsilon_min: 0.01
+  decay_rate: 70000  # Decay rate
+  epsilon_decay: 0.999
+
+  # Model and visualization parameters
+  model_path: "logs/a2c/a2c_model.pth"  # Model path
+  record_video: True  # Fixed typo in `record_visdio`
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/test"  # Log directory
+
+  # DQN settings
+  dqn_type: "test"  # DQN type
+
+  # Mode
+  train_dqn: False
+  test_dqn: True
+
+a3c_train:
+  name: "default"
+  note: "baseline"
+
+  # Network parameters
+  learning_rate: 0.0001
+  optimizer: "adam"
+
+  # Training parameters
+  num_episodes: 50000
+  gamma: 0.99
+
+  # Model and visualization parameters
+  model_path: "logs/a3c/a3c_model.pth"
+  record_video: True
+
+  num_workers: 6
+
+  # Logging parameters
+  moving_avg_window: 100
+  log_dir: "logs/a3c"
+
+  # Mode
+  train_dqn: True
+  test_dqn: False

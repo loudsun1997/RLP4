@@ -1,0 +1,12 @@
+A.L.E: Arcade Learning Environment (version 0.8.1+53f58b7)
+[Powered by Stella]
+args: Namespace(config_name='a3c_train')
+Loaded config with name 'a3c_train'
+config: {'name': 'default', 'note': 'baseline', 'learning_rate': 0.0001, 'optimizer': 'adam', 'num_episodes': 50000, 'gamma': 0.99, 'model_path': 'logs/a3c/a3c_model.pth', 'record_video': True, 'num_workers': 6, 'moving_avg_window': 100, 'log_dir': 'logs/a3c', 'train_dqn': True, 'test_dqn': False}
+Starting worker 0
+Starting worker 1
+Starting worker 2
+Starting worker 3
+Starting worker 4
+Starting worker 5
+slurmstepd: error: *** JOB 937381 ON gpu-4-21 CANCELLED AT 2024-12-09T00:31:00 DUE TO TIME LIMIT ***

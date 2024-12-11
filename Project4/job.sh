@@ -10,4 +10,4 @@
 #SBATCH --job-name="P3"
 
 # source activate myenv
-python main.py --config_name 'default_dqn_1'
+python main.py --config_name 'a3c_train'

@@ -1,54 +1,3006 @@
 ====================
-Current steps = 4344
-Current epsilon = 0.9056978449586682
+Current steps = 54910
+
+Current episode = 1200
+Current mean reward = 0.0
+Best mean reward = 0.0
+====================
+Current steps = 4500
+
 Current episode = 100
-Current mean reward = 13.17
+Current mean reward = 12.85
 Best mean reward = -inf
 ====================
-Current steps = 8606
-Current epsilon = 0.8194682977764125
+Current steps = 8684
+
 Current episode = 200
-Current mean reward = 11.22
-Best mean reward = 13.31
+Current mean reward = 11.97
+Best mean reward = 13.08
 ====================
-Current steps = 13165
-Current epsilon = 0.7414484806367364
+Current steps = 12747
+
 Current episode = 300
-Current mean reward = 11.16
-Best mean reward = 13.31
+Current mean reward = 11.58
+Best mean reward = 13.08
 ====================
-Current steps = 17846
-Current epsilon = 0.6708567627695098
+Current steps = 17100
+
 Current episode = 400
-Current mean reward = 11.67
-Best mean reward = 13.31
+Current mean reward = 11.78
+Best mean reward = 13.08
 ====================
-Current steps = 23114
-Current epsilon = 0.6069859307919768
+Current steps = 21492
+
 Current episode = 500
-Current mean reward = 14.06
-Best mean reward = 14.22
+Current mean reward = 12.68
+Best mean reward = 13.08
 ====================
-Current steps = 27613
-Current epsilon = 0.5491961035890855
+Current steps = 25937
+
 Current episode = 600
-Current mean reward = 10.38
-Best mean reward = 14.22
+Current mean reward = 12.04
+Best mean reward = 13.08
 ====================
-Current steps = 32572
-Current epsilon = 0.49690832175285177
+Current steps = 30307
+
 Current episode = 700
-Current mean reward = 11.42
-Best mean reward = 14.22
+Current mean reward = 13.08
+Best mean reward = 13.19
 ====================
-Current steps = 37627
-Current epsilon = 0.44959874735743227
+Current steps = 34283
+
 Current episode = 800
-Current mean reward = 9.88
-Best mean reward = 14.22
+Current mean reward = 11.45
+Best mean reward = 13.49
 ====================
-Current steps = 42413
-Current epsilon = 0.4067934159611651
+Current steps = 38475
+
 Current episode = 900
-Current mean reward = 10.4
-Best mean reward = 14.22
+Current mean reward = 11.85
+Best mean reward = 13.49
+====================
+Current steps = 43210
+
+Current episode = 1000
+Current mean reward = 13.45
+Best mean reward = 13.72
+====================
+Current steps = 47276
+
+Current episode = 1100
+Current mean reward = 11.33
+Best mean reward = 13.72
+====================
+Current steps = 51667
+
+Current episode = 1200
+Current mean reward = 12.35
+Best mean reward = 13.72
+====================
+Current steps = 55938
+
+Current episode = 1300
+Current mean reward = 12.06
+Best mean reward = 13.72
+====================
+Current steps = 60056
+
+Current episode = 1400
+Current mean reward = 11.32
+Best mean reward = 13.72
+====================
+Current steps = 64342
+
+Current episode = 1500
+Current mean reward = 12.32
+Best mean reward = 13.72
+====================
+Current steps = 68451
+
+Current episode = 1600
+Current mean reward = 11.55
+Best mean reward = 13.72
+====================
+Current steps = 72769
+
+Current episode = 1700
+Current mean reward = 12.85
+Best mean reward = 13.72
+====================
+Current steps = 77004
+
+Current episode = 1800
+Current mean reward = 11.76
+Best mean reward = 13.72
+====================
+Current steps = 81806
+
+Current episode = 1900
+Current mean reward = 13.71
+Best mean reward = 13.72
+====================
+Current steps = 86272
+
+Current episode = 2000
+Current mean reward = 12.74
+Best mean reward = 14.33
+====================
+Current steps = 90803
+
+Current episode = 2100
+Current mean reward = 12.63
+Best mean reward = 14.33
+====================
+Current steps = 95049
+
+Current episode = 2200
+Current mean reward = 12.68
+Best mean reward = 14.33
+====================
+Current steps = 99454
+
+Current episode = 2300
+Current mean reward = 12.44
+Best mean reward = 14.33
+====================
+Current steps = 103976
+
+Current episode = 2400
+Current mean reward = 13.45
+Best mean reward = 14.33
+====================
+Current steps = 108278
+
+Current episode = 2500
+Current mean reward = 12.3
+Best mean reward = 14.33
+====================
+Current steps = 112785
+
+Current episode = 2600
+Current mean reward = 12.88
+Best mean reward = 14.33
+====================
+Current steps = 117138
+
+Current episode = 2700
+Current mean reward = 12.99
+Best mean reward = 14.33
+====================
+Current steps = 121349
+
+Current episode = 2800
+Current mean reward = 12.36
+Best mean reward = 14.33
+====================
+Current steps = 125861
+
+Current episode = 2900
+Current mean reward = 13.05
+Best mean reward = 14.33
+====================
+Current steps = 130289
+
+Current episode = 3000
+Current mean reward = 11.81
+Best mean reward = 14.33
+====================
+Current steps = 134779
+
+Current episode = 3100
+Current mean reward = 12.96
+Best mean reward = 14.33
+====================
+Current steps = 139616
+
+Current episode = 3200
+Current mean reward = 13.76
+Best mean reward = 14.33
+====================
+Current steps = 144037
+
+Current episode = 3300
+Current mean reward = 12.52
+Best mean reward = 14.53
+====================
+Current steps = 148501
+
+Current episode = 3400
+Current mean reward = 12.87
+Best mean reward = 14.53
+====================
+Current steps = 152693
+
+Current episode = 3500
+Current mean reward = 11.99
+Best mean reward = 14.53
+====================
+Current steps = 157776
+
+Current episode = 3600
+Current mean reward = 14.84
+Best mean reward = 14.98
+====================
+Current steps = 162506
+
+Current episode = 3700
+Current mean reward = 13.34
+Best mean reward = 14.98
+====================
+Current steps = 167325
+
+Current episode = 3800
+Current mean reward = 13.87
+Best mean reward = 14.98
+====================
+Current steps = 172540
+
+Current episode = 3900
+Current mean reward = 14.74
+Best mean reward = 15.4
+====================
+Current steps = 177237
+
+Current episode = 4000
+Current mean reward = 13.75
+Best mean reward = 15.4
+====================
+Current steps = 182036
+
+Current episode = 4100
+Current mean reward = 13.48
+Best mean reward = 15.4
+====================
+Current steps = 186746
+
+Current episode = 4200
+Current mean reward = 13.46
+Best mean reward = 15.4
+====================
+Current steps = 191948
+
+Current episode = 4300
+Current mean reward = 15.78
+Best mean reward = 15.79
+====================
+Current steps = 196573
+
+Current episode = 4400
+Current mean reward = 13.7
+Best mean reward = 16.14
+====================
+Current steps = 201767
+
+Current episode = 4500
+Current mean reward = 15.28
+Best mean reward = 16.14
+====================
+Current steps = 206608
+
+Current episode = 4600
+Current mean reward = 14.06
+Best mean reward = 16.14
+====================
+Current steps = 211017
+
+Current episode = 4700
+Current mean reward = 12.4
+Best mean reward = 16.14
+====================
+Current steps = 216043
+
+Current episode = 4800
+Current mean reward = 14.89
+Best mean reward = 16.14
+====================
+Current steps = 220993
+
+Current episode = 4900
+Current mean reward = 14.08
+Best mean reward = 16.39
+====================
+Current steps = 226016
+
+Current episode = 5000
+Current mean reward = 14.26
+Best mean reward = 16.39
+====================
+Current steps = 231097
+
+Current episode = 5100
+Current mean reward = 15.02
+Best mean reward = 16.39
+====================
+Current steps = 235955
+
+Current episode = 5200
+Current mean reward = 14.12
+Best mean reward = 16.39
+====================
+Current steps = 240989
+
+Current episode = 5300
+Current mean reward = 14.92
+Best mean reward = 16.39
+====================
+Current steps = 246158
+
+Current episode = 5400
+Current mean reward = 13.91
+Best mean reward = 16.39
+====================
+Current steps = 251437
+
+Current episode = 5500
+Current mean reward = 14.02
+Best mean reward = 16.39
+====================
+Current steps = 257386
+
+Current episode = 5600
+Current mean reward = 16.71
+Best mean reward = 16.76
+====================
+Current steps = 262806
+
+Current episode = 5700
+Current mean reward = 14.17
+Best mean reward = 16.83
+====================
+Current steps = 267661
+
+Current episode = 5800
+Current mean reward = 13.17
+Best mean reward = 16.83
+====================
+Current steps = 272634
+
+Current episode = 5900
+Current mean reward = 13.47
+Best mean reward = 16.83
+====================
+Current steps = 278145
+
+Current episode = 6000
+Current mean reward = 15.26
+Best mean reward = 16.83
+====================
+Current steps = 283157
+
+Current episode = 6100
+Current mean reward = 13.35
+Best mean reward = 16.83
+====================
+Current steps = 288510
+
+Current episode = 6200
+Current mean reward = 14.94
+Best mean reward = 16.83
+====================
+Current steps = 294087
+
+Current episode = 6300
+Current mean reward = 16.01
+Best mean reward = 16.83
+====================
+Current steps = 299113
+
+Current episode = 6400
+Current mean reward = 13.22
+Best mean reward = 16.83
+====================
+Current steps = 304235
+
+Current episode = 6500
+Current mean reward = 15.14
+Best mean reward = 16.83
+====================
+Current steps = 309720
+
+Current episode = 6600
+Current mean reward = 15.27
+Best mean reward = 16.83
+====================
+Current steps = 315032
+
+Current episode = 6700
+Current mean reward = 14.12
+Best mean reward = 16.83
+====================
+Current steps = 320345
+
+Current episode = 6800
+Current mean reward = 14.77
+Best mean reward = 16.83
+====================
+Current steps = 325751
+
+Current episode = 6900
+Current mean reward = 14.72
+Best mean reward = 16.83
+====================
+Current steps = 331030
+
+Current episode = 7000
+Current mean reward = 15.62
+Best mean reward = 16.83
+====================
+Current steps = 336352
+
+Current episode = 7100
+Current mean reward = 15.54
+Best mean reward = 16.83
+====================
+Current steps = 341688
+
+Current episode = 7200
+Current mean reward = 15.26
+Best mean reward = 16.83
+====================
+Current steps = 346925
+
+Current episode = 7300
+Current mean reward = 15.05
+Best mean reward = 16.83
+====================
+Current steps = 351956
+
+Current episode = 7400
+Current mean reward = 13.86
+Best mean reward = 16.83
+====================
+Current steps = 357428
+
+Current episode = 7500
+Current mean reward = 16.54
+Best mean reward = 17.27
+====================
+Current steps = 362810
+
+Current episode = 7600
+Current mean reward = 14.69
+Best mean reward = 17.27
+====================
+Current steps = 367913
+
+Current episode = 7700
+Current mean reward = 15.4
+Best mean reward = 17.27
+====================
+Current steps = 373102
+
+Current episode = 7800
+Current mean reward = 14.76
+Best mean reward = 17.27
+====================
+Current steps = 378597
+
+Current episode = 7900
+Current mean reward = 15.25
+Best mean reward = 17.27
+====================
+Current steps = 383856
+
+Current episode = 8000
+Current mean reward = 14.19
+Best mean reward = 17.27
+====================
+Current steps = 388979
+
+Current episode = 8100
+Current mean reward = 13.88
+Best mean reward = 17.27
+====================
+Current steps = 394387
+
+Current episode = 8200
+Current mean reward = 15.35
+Best mean reward = 17.27
+====================
+Current steps = 399704
+
+Current episode = 8300
+Current mean reward = 15.0
+Best mean reward = 17.27
+====================
+Current steps = 405012
+
+Current episode = 8400
+Current mean reward = 15.27
+Best mean reward = 17.27
+====================
+Current steps = 410398
+
+Current episode = 8500
+Current mean reward = 16.12
+Best mean reward = 17.27
+====================
+Current steps = 416065
+
+Current episode = 8600
+Current mean reward = 16.6
+Best mean reward = 17.27
+====================
+Current steps = 421722
+
+Current episode = 8700
+Current mean reward = 17.14
+Best mean reward = 17.77
+====================
+Current steps = 427165
+
+Current episode = 8800
+Current mean reward = 14.64
+Best mean reward = 17.77
+====================
+Current steps = 433147
+
+Current episode = 8900
+Current mean reward = 17.14
+Best mean reward = 17.77
+====================
+Current steps = 438445
+
+Current episode = 9000
+Current mean reward = 14.84
+Best mean reward = 17.77
+====================
+Current steps = 443899
+
+Current episode = 9100
+Current mean reward = 15.14
+Best mean reward = 17.77
+====================
+Current steps = 449311
+
+Current episode = 9200
+Current mean reward = 15.8
+Best mean reward = 17.77
+====================
+Current steps = 454852
+
+Current episode = 9300
+Current mean reward = 17.07
+Best mean reward = 17.77
+====================
+Current steps = 460268
+
+Current episode = 9400
+Current mean reward = 16.28
+Best mean reward = 17.77
+====================
+Current steps = 465805
+
+Current episode = 9500
+Current mean reward = 16.3
+Best mean reward = 17.77
+====================
+Current steps = 471263
+
+Current episode = 9600
+Current mean reward = 16.06
+Best mean reward = 17.77
+====================
+Current steps = 476781
+
+Current episode = 9700
+Current mean reward = 14.83
+Best mean reward = 17.77
+====================
+Current steps = 482177
+
+Current episode = 9800
+Current mean reward = 15.75
+Best mean reward = 17.77
+====================
+Current steps = 487278
+
+Current episode = 9900
+Current mean reward = 14.78
+Best mean reward = 17.77
+====================
+Current steps = 492998
+
+Current episode = 10000
+Current mean reward = 15.89
+Best mean reward = 17.77
+====================
+Current steps = 498301
+
+Current episode = 10100
+Current mean reward = 15.18
+Best mean reward = 17.77
+====================
+Current steps = 503603
+
+Current episode = 10200
+Current mean reward = 15.66
+Best mean reward = 17.77
+====================
+Current steps = 508581
+
+Current episode = 10300
+Current mean reward = 15.71
+Best mean reward = 17.77
+====================
+Current steps = 513740
+
+Current episode = 10400
+Current mean reward = 15.54
+Best mean reward = 17.77
+====================
+Current steps = 519200
+
+Current episode = 10500
+Current mean reward = 17.02
+Best mean reward = 17.77
+====================
+Current steps = 524160
+
+Current episode = 10600
+Current mean reward = 14.43
+Best mean reward = 17.77
+====================
+Current steps = 529337
+
+Current episode = 10700
+Current mean reward = 14.13
+Best mean reward = 17.77
+====================
+Current steps = 534514
+
+Current episode = 10800
+Current mean reward = 14.98
+Best mean reward = 17.77
+====================
+Current steps = 540063
+
+Current episode = 10900
+Current mean reward = 16.72
+Best mean reward = 17.77
+====================
+Current steps = 545194
+
+Current episode = 11000
+Current mean reward = 14.4
+Best mean reward = 17.77
+====================
+Current steps = 550620
+
+Current episode = 11100
+Current mean reward = 14.94
+Best mean reward = 17.77
+====================
+Current steps = 555903
+
+Current episode = 11200
+Current mean reward = 13.67
+Best mean reward = 17.77
+====================
+Current steps = 561414
+
+Current episode = 11300
+Current mean reward = 15.34
+Best mean reward = 17.77
+====================
+Current steps = 566530
+
+Current episode = 11400
+Current mean reward = 14.62
+Best mean reward = 17.77
+====================
+Current steps = 572191
+
+Current episode = 11500
+Current mean reward = 16.98
+Best mean reward = 17.77
+====================
+Current steps = 577190
+
+Current episode = 11600
+Current mean reward = 14.85
+Best mean reward = 17.77
+====================
+Current steps = 582979
+
+Current episode = 11700
+Current mean reward = 17.1
+Best mean reward = 18.18
+====================
+Current steps = 588089
+
+Current episode = 11800
+Current mean reward = 15.41
+Best mean reward = 18.18
+====================
+Current steps = 593486
+
+Current episode = 11900
+Current mean reward = 16.6
+Best mean reward = 18.18
+====================
+Current steps = 598610
+
+Current episode = 12000
+Current mean reward = 14.66
+Best mean reward = 18.18
+====================
+Current steps = 604055
+
+Current episode = 12100
+Current mean reward = 15.52
+Best mean reward = 18.18
+====================
+Current steps = 609552
+
+Current episode = 12200
+Current mean reward = 16.86
+Best mean reward = 18.18
+====================
+Current steps = 614951
+
+Current episode = 12300
+Current mean reward = 14.17
+Best mean reward = 18.18
+====================
+Current steps = 619882
+
+Current episode = 12400
+Current mean reward = 16.0
+Best mean reward = 18.18
+====================
+Current steps = 625188
+
+Current episode = 12500
+Current mean reward = 16.99
+Best mean reward = 18.18
+====================
+Current steps = 630587
+
+Current episode = 12600
+Current mean reward = 16.74
+Best mean reward = 18.18
+====================
+Current steps = 635679
+
+Current episode = 12700
+Current mean reward = 15.82
+Best mean reward = 18.18
+====================
+Current steps = 640920
+
+Current episode = 12800
+Current mean reward = 16.87
+Best mean reward = 18.18
+====================
+Current steps = 646140
+
+Current episode = 12900
+Current mean reward = 16.24
+Best mean reward = 18.18
+====================
+Current steps = 651306
+
+Current episode = 13000
+Current mean reward = 15.08
+Best mean reward = 18.18
+====================
+Current steps = 656384
+
+Current episode = 13100
+Current mean reward = 15.88
+Best mean reward = 18.18
+====================
+Current steps = 661985
+
+Current episode = 13200
+Current mean reward = 15.65
+Best mean reward = 18.18
+====================
+Current steps = 667247
+
+Current episode = 13300
+Current mean reward = 15.61
+Best mean reward = 18.18
+====================
+Current steps = 672258
+
+Current episode = 13400
+Current mean reward = 15.23
+Best mean reward = 18.18
+====================
+Current steps = 677038
+
+Current episode = 13500
+Current mean reward = 15.4
+Best mean reward = 18.18
+====================
+Current steps = 682032
+
+Current episode = 13600
+Current mean reward = 15.57
+Best mean reward = 18.18
+====================
+Current steps = 687195
+
+Current episode = 13700
+Current mean reward = 16.65
+Best mean reward = 18.18
+====================
+Current steps = 692204
+
+Current episode = 13800
+Current mean reward = 16.22
+Best mean reward = 18.18
+====================
+Current steps = 697471
+
+Current episode = 13900
+Current mean reward = 15.14
+Best mean reward = 18.18
+====================
+Current steps = 703240
+
+Current episode = 14000
+Current mean reward = 16.8
+Best mean reward = 18.18
+====================
+Current steps = 708516
+
+Current episode = 14100
+Current mean reward = 15.51
+Best mean reward = 18.18
+====================
+Current steps = 713986
+
+Current episode = 14200
+Current mean reward = 16.7
+Best mean reward = 18.18
+====================
+Current steps = 719394
+
+Current episode = 14300
+Current mean reward = 16.08
+Best mean reward = 18.18
+====================
+Current steps = 724748
+
+Current episode = 14400
+Current mean reward = 16.02
+Best mean reward = 18.18
+====================
+Current steps = 730070
+
+Current episode = 14500
+Current mean reward = 15.95
+Best mean reward = 18.18
+====================
+Current steps = 735028
+
+Current episode = 14600
+Current mean reward = 14.5
+Best mean reward = 18.18
+====================
+Current steps = 740008
+
+Current episode = 14700
+Current mean reward = 14.8
+Best mean reward = 18.18
+====================
+Current steps = 745156
+
+Current episode = 14800
+Current mean reward = 15.88
+Best mean reward = 18.18
+====================
+Current steps = 750262
+
+Current episode = 14900
+Current mean reward = 15.07
+Best mean reward = 18.18
+====================
+Current steps = 755319
+
+Current episode = 15000
+Current mean reward = 15.23
+Best mean reward = 18.18
+====================
+Current steps = 760560
+
+Current episode = 15100
+Current mean reward = 15.93
+Best mean reward = 18.18
+====================
+Current steps = 765669
+
+Current episode = 15200
+Current mean reward = 14.7
+Best mean reward = 18.18
+====================
+Current steps = 770513
+
+Current episode = 15300
+Current mean reward = 14.49
+Best mean reward = 18.18
+====================
+Current steps = 775291
+
+Current episode = 15400
+Current mean reward = 14.76
+Best mean reward = 18.18
+====================
+Current steps = 780050
+
+Current episode = 15500
+Current mean reward = 14.96
+Best mean reward = 18.18
+====================
+Current steps = 785264
+
+Current episode = 15600
+Current mean reward = 16.78
+Best mean reward = 18.18
+====================
+Current steps = 790425
+
+Current episode = 15700
+Current mean reward = 15.63
+Best mean reward = 18.18
+====================
+Current steps = 795582
+
+Current episode = 15800
+Current mean reward = 15.49
+Best mean reward = 18.18
+====================
+Current steps = 800743
+
+Current episode = 15900
+Current mean reward = 15.94
+Best mean reward = 18.18
+====================
+Current steps = 805678
+
+Current episode = 16000
+Current mean reward = 15.07
+Best mean reward = 18.18
+====================
+Current steps = 810484
+
+Current episode = 16100
+Current mean reward = 15.21
+Best mean reward = 18.18
+====================
+Current steps = 815470
+
+Current episode = 16200
+Current mean reward = 15.91
+Best mean reward = 18.18
+====================
+Current steps = 820724
+
+Current episode = 16300
+Current mean reward = 15.49
+Best mean reward = 18.18
+====================
+Current steps = 825538
+
+Current episode = 16400
+Current mean reward = 15.17
+Best mean reward = 18.18
+====================
+Current steps = 830600
+
+Current episode = 16500
+Current mean reward = 15.86
+Best mean reward = 18.18
+====================
+Current steps = 835959
+
+Current episode = 16600
+Current mean reward = 16.46
+Best mean reward = 18.18
+====================
+Current steps = 841203
+
+Current episode = 16700
+Current mean reward = 17.19
+Best mean reward = 18.18
+====================
+Current steps = 846382
+
+Current episode = 16800
+Current mean reward = 15.51
+Best mean reward = 18.18
+====================
+Current steps = 851337
+
+Current episode = 16900
+Current mean reward = 15.17
+Best mean reward = 18.18
+====================
+Current steps = 856489
+
+Current episode = 17000
+Current mean reward = 15.94
+Best mean reward = 18.18
+====================
+Current steps = 861596
+
+Current episode = 17100
+Current mean reward = 15.49
+Best mean reward = 18.18
+====================
+Current steps = 866562
+
+Current episode = 17200
+Current mean reward = 14.69
+Best mean reward = 18.18
+====================
+Current steps = 871872
+
+Current episode = 17300
+Current mean reward = 15.44
+Best mean reward = 18.18
+====================
+Current steps = 876923
+
+Current episode = 17400
+Current mean reward = 14.48
+Best mean reward = 18.18
+====================
+Current steps = 881866
+
+Current episode = 17500
+Current mean reward = 14.75
+Best mean reward = 18.18
+====================
+Current steps = 887227
+
+Current episode = 17600
+Current mean reward = 15.86
+Best mean reward = 18.18
+====================
+Current steps = 892322
+
+Current episode = 17700
+Current mean reward = 14.54
+Best mean reward = 18.18
+====================
+Current steps = 897420
+
+Current episode = 17800
+Current mean reward = 15.42
+Best mean reward = 18.18
+====================
+Current steps = 902517
+
+Current episode = 17900
+Current mean reward = 15.09
+Best mean reward = 18.18
+====================
+Current steps = 907228
+
+Current episode = 18000
+Current mean reward = 13.75
+Best mean reward = 18.18
+====================
+Current steps = 912624
+
+Current episode = 18100
+Current mean reward = 15.65
+Best mean reward = 18.18
+====================
+Current steps = 917797
+
+Current episode = 18200
+Current mean reward = 13.93
+Best mean reward = 18.18
+====================
+Current steps = 923509
+
+Current episode = 18300
+Current mean reward = 14.15
+Best mean reward = 18.18
+====================
+Current steps = 929158
+
+Current episode = 18400
+Current mean reward = 16.98
+Best mean reward = 18.18
+====================
+Current steps = 934636
+
+Current episode = 18500
+Current mean reward = 15.57
+Best mean reward = 18.18
+====================
+Current steps = 940346
+
+Current episode = 18600
+Current mean reward = 16.28
+Best mean reward = 18.18
+====================
+Current steps = 945757
+
+Current episode = 18700
+Current mean reward = 16.05
+Best mean reward = 18.18
+====================
+Current steps = 951315
+
+Current episode = 18800
+Current mean reward = 16.95
+Best mean reward = 18.18
+====================
+Current steps = 956913
+
+Current episode = 18900
+Current mean reward = 17.11
+Best mean reward = 18.18
+====================
+Current steps = 961721
+
+Current episode = 19000
+Current mean reward = 14.32
+Best mean reward = 18.18
+====================
+Current steps = 967009
+
+Current episode = 19100
+Current mean reward = 16.23
+Best mean reward = 18.18
+====================
+Current steps = 971925
+
+Current episode = 19200
+Current mean reward = 14.72
+Best mean reward = 18.18
+====================
+Current steps = 977456
+
+Current episode = 19300
+Current mean reward = 16.07
+Best mean reward = 18.18
+====================
+Current steps = 982404
+
+Current episode = 19400
+Current mean reward = 14.94
+Best mean reward = 18.18
+====================
+Current steps = 987613
+
+Current episode = 19500
+Current mean reward = 15.19
+Best mean reward = 18.18
+====================
+Current steps = 992904
+
+Current episode = 19600
+Current mean reward = 16.33
+Best mean reward = 18.18
+====================
+Current steps = 998144
+
+Current episode = 19700
+Current mean reward = 15.81
+Best mean reward = 18.18
+====================
+Current steps = 1003456
+
+Current episode = 19800
+Current mean reward = 14.14
+Best mean reward = 18.18
+====================
+Current steps = 1008747
+
+Current episode = 19900
+Current mean reward = 14.77
+Best mean reward = 18.18
+====================
+Current steps = 1013407
+
+Current episode = 20000
+Current mean reward = 15.43
+Best mean reward = 18.18
+====================
+Current steps = 1018787
+
+Current episode = 20100
+Current mean reward = 16.39
+Best mean reward = 18.18
+====================
+Current steps = 1024345
+
+Current episode = 20200
+Current mean reward = 17.04
+Best mean reward = 18.18
+====================
+Current steps = 1029064
+
+Current episode = 20300
+Current mean reward = 15.08
+Best mean reward = 18.18
+====================
+Current steps = 1034235
+
+Current episode = 20400
+Current mean reward = 15.73
+Best mean reward = 18.18
+====================
+Current steps = 1039363
+
+Current episode = 20500
+Current mean reward = 15.71
+Best mean reward = 18.18
+====================
+Current steps = 1044522
+
+Current episode = 20600
+Current mean reward = 14.92
+Best mean reward = 18.18
+====================
+Current steps = 1049499
+
+Current episode = 20700
+Current mean reward = 15.33
+Best mean reward = 18.18
+====================
+Current steps = 1055276
+
+Current episode = 20800
+Current mean reward = 16.62
+Best mean reward = 18.18
+====================
+Current steps = 1060637
+
+Current episode = 20900
+Current mean reward = 16.68
+Best mean reward = 18.18
+====================
+Current steps = 1065989
+
+Current episode = 21000
+Current mean reward = 15.82
+Best mean reward = 18.18
+====================
+Current steps = 1071250
+
+Current episode = 21100
+Current mean reward = 16.33
+Best mean reward = 18.18
+====================
+Current steps = 1076583
+
+Current episode = 21200
+Current mean reward = 16.4
+Best mean reward = 18.18
+====================
+Current steps = 1081631
+
+Current episode = 21300
+Current mean reward = 15.57
+Best mean reward = 18.18
+====================
+Current steps = 1086637
+
+Current episode = 21400
+Current mean reward = 15.36
+Best mean reward = 18.18
+====================
+Current steps = 1092446
+
+Current episode = 21500
+Current mean reward = 18.46
+Best mean reward = 18.62
+====================
+Current steps = 1097805
+
+Current episode = 21600
+Current mean reward = 17.14
+Best mean reward = 18.85
+====================
+Current steps = 1103597
+
+Current episode = 21700
+Current mean reward = 17.75
+Best mean reward = 18.85
+====================
+Current steps = 1108794
+
+Current episode = 21800
+Current mean reward = 15.96
+Best mean reward = 18.85
+====================
+Current steps = 1113695
+
+Current episode = 21900
+Current mean reward = 13.8
+Best mean reward = 18.85
+====================
+Current steps = 1119067
+
+Current episode = 22000
+Current mean reward = 15.64
+Best mean reward = 18.85
+====================
+Current steps = 1124362
+
+Current episode = 22100
+Current mean reward = 15.85
+Best mean reward = 18.85
+====================
+Current steps = 1129027
+
+Current episode = 22200
+Current mean reward = 14.14
+Best mean reward = 18.85
+====================
+Current steps = 1134243
+
+Current episode = 22300
+Current mean reward = 15.67
+Best mean reward = 18.85
+====================
+Current steps = 1139837
+
+Current episode = 22400
+Current mean reward = 15.56
+Best mean reward = 18.85
+====================
+Current steps = 1145405
+
+Current episode = 22500
+Current mean reward = 15.96
+Best mean reward = 18.85
+====================
+Current steps = 1150943
+
+Current episode = 22600
+Current mean reward = 15.33
+Best mean reward = 18.85
+====================
+Current steps = 1156270
+
+Current episode = 22700
+Current mean reward = 14.54
+Best mean reward = 18.85
+====================
+Current steps = 1161462
+
+Current episode = 22800
+Current mean reward = 16.15
+Best mean reward = 18.85
+====================
+Current steps = 1167131
+
+Current episode = 22900
+Current mean reward = 15.97
+Best mean reward = 18.85
+====================
+Current steps = 1172487
+
+Current episode = 23000
+Current mean reward = 15.71
+Best mean reward = 18.85
+====================
+Current steps = 1177793
+
+Current episode = 23100
+Current mean reward = 15.46
+Best mean reward = 18.85
+====================
+Current steps = 1183168
+
+Current episode = 23200
+Current mean reward = 15.54
+Best mean reward = 18.85
+====================
+Current steps = 1188623
+
+Current episode = 23300
+Current mean reward = 16.28
+Best mean reward = 18.85
+====================
+Current steps = 1193697
+
+Current episode = 23400
+Current mean reward = 14.75
+Best mean reward = 18.85
+====================
+Current steps = 1199260
+
+Current episode = 23500
+Current mean reward = 15.7
+Best mean reward = 18.85
+====================
+Current steps = 1204676
+
+Current episode = 23600
+Current mean reward = 16.29
+Best mean reward = 18.85
+====================
+Current steps = 1210185
+
+Current episode = 23700
+Current mean reward = 17.6
+Best mean reward = 18.85
+====================
+Current steps = 1215955
+
+Current episode = 23800
+Current mean reward = 16.49
+Best mean reward = 18.85
+====================
+Current steps = 1221285
+
+Current episode = 23900
+Current mean reward = 16.53
+Best mean reward = 18.85
+====================
+Current steps = 1226518
+
+Current episode = 24000
+Current mean reward = 16.36
+Best mean reward = 18.85
+====================
+Current steps = 1231766
+
+Current episode = 24100
+Current mean reward = 17.16
+Best mean reward = 18.85
+====================
+Current steps = 1237137
+
+Current episode = 24200
+Current mean reward = 16.59
+Best mean reward = 18.85
+====================
+Current steps = 1242445
+
+Current episode = 24300
+Current mean reward = 16.36
+Best mean reward = 18.85
+====================
+Current steps = 1247721
+
+Current episode = 24400
+Current mean reward = 15.83
+Best mean reward = 18.85
+====================
+Current steps = 1252761
+
+Current episode = 24500
+Current mean reward = 15.67
+Best mean reward = 18.85
+====================
+Current steps = 1258055
+
+Current episode = 24600
+Current mean reward = 16.49
+Best mean reward = 18.85
+====================
+Current steps = 1263485
+
+Current episode = 24700
+Current mean reward = 17.61
+Best mean reward = 18.85
+====================
+Current steps = 1268852
+
+Current episode = 24800
+Current mean reward = 16.75
+Best mean reward = 18.85
+====================
+Current steps = 1274332
+
+Current episode = 24900
+Current mean reward = 15.3
+Best mean reward = 18.85
+====================
+Current steps = 1279461
+
+Current episode = 25000
+Current mean reward = 15.87
+Best mean reward = 18.85
+====================
+Current steps = 1284435
+
+Current episode = 25100
+Current mean reward = 15.99
+Best mean reward = 18.85
+====================
+Current steps = 1289915
+
+Current episode = 25200
+Current mean reward = 17.26
+Best mean reward = 18.85
+====================
+Current steps = 1294801
+
+Current episode = 25300
+Current mean reward = 15.03
+Best mean reward = 18.85
+====================
+Current steps = 1299751
+
+Current episode = 25400
+Current mean reward = 15.17
+Best mean reward = 18.85
+====================
+Current steps = 1304952
+
+Current episode = 25500
+Current mean reward = 16.16
+Best mean reward = 18.85
+====================
+Current steps = 1310232
+
+Current episode = 25600
+Current mean reward = 15.49
+Best mean reward = 18.85
+====================
+Current steps = 1315312
+
+Current episode = 25700
+Current mean reward = 15.6
+Best mean reward = 18.85
+====================
+Current steps = 1320506
+
+Current episode = 25800
+Current mean reward = 16.73
+Best mean reward = 18.85
+====================
+Current steps = 1325776
+
+Current episode = 25900
+Current mean reward = 16.71
+Best mean reward = 18.85
+====================
+Current steps = 1330738
+
+Current episode = 26000
+Current mean reward = 15.43
+Best mean reward = 18.85
+====================
+Current steps = 1335610
+
+Current episode = 26100
+Current mean reward = 15.24
+Best mean reward = 18.85
+====================
+Current steps = 1340981
+
+Current episode = 26200
+Current mean reward = 16.78
+Best mean reward = 18.85
+====================
+Current steps = 1345987
+
+Current episode = 26300
+Current mean reward = 16.21
+Best mean reward = 18.85
+====================
+Current steps = 1350689
+
+Current episode = 26400
+Current mean reward = 13.14
+Best mean reward = 18.85
+====================
+Current steps = 1355720
+
+Current episode = 26500
+Current mean reward = 14.51
+Best mean reward = 18.85
+====================
+Current steps = 1360783
+
+Current episode = 26600
+Current mean reward = 15.86
+Best mean reward = 18.85
+====================
+Current steps = 1365931
+
+Current episode = 26700
+Current mean reward = 15.43
+Best mean reward = 18.85
+====================
+Current steps = 1371113
+
+Current episode = 26800
+Current mean reward = 15.74
+Best mean reward = 18.85
+====================
+Current steps = 1376126
+
+Current episode = 26900
+Current mean reward = 14.29
+Best mean reward = 18.85
+====================
+Current steps = 1381286
+
+Current episode = 27000
+Current mean reward = 15.01
+Best mean reward = 18.85
+====================
+Current steps = 1386721
+
+Current episode = 27100
+Current mean reward = 15.08
+Best mean reward = 18.85
+====================
+Current steps = 1392046
+
+Current episode = 27200
+Current mean reward = 15.87
+Best mean reward = 18.85
+====================
+Current steps = 1397187
+
+Current episode = 27300
+Current mean reward = 13.85
+Best mean reward = 18.85
+====================
+Current steps = 1402417
+
+Current episode = 27400
+Current mean reward = 16.02
+Best mean reward = 18.85
+====================
+Current steps = 1407483
+
+Current episode = 27500
+Current mean reward = 14.88
+Best mean reward = 18.85
+====================
+Current steps = 1413056
+
+Current episode = 27600
+Current mean reward = 17.47
+Best mean reward = 18.85
+====================
+Current steps = 1418073
+
+Current episode = 27700
+Current mean reward = 15.39
+Best mean reward = 18.85
+====================
+Current steps = 1423193
+
+Current episode = 27800
+Current mean reward = 15.96
+Best mean reward = 18.85
+====================
+Current steps = 1428405
+
+Current episode = 27900
+Current mean reward = 15.69
+Best mean reward = 18.85
+====================
+Current steps = 1433407
+
+Current episode = 28000
+Current mean reward = 15.27
+Best mean reward = 18.85
+====================
+Current steps = 1437996
+
+Current episode = 28100
+Current mean reward = 14.93
+Best mean reward = 18.85
+====================
+Current steps = 1442967
+
+Current episode = 28200
+Current mean reward = 15.19
+Best mean reward = 18.85
+====================
+Current steps = 1448102
+
+Current episode = 28300
+Current mean reward = 14.68
+Best mean reward = 18.85
+====================
+Current steps = 1453663
+
+Current episode = 28400
+Current mean reward = 16.1
+Best mean reward = 18.85
+====================
+Current steps = 1458893
+
+Current episode = 28500
+Current mean reward = 16.1
+Best mean reward = 18.85
+====================
+Current steps = 1464294
+
+Current episode = 28600
+Current mean reward = 14.96
+Best mean reward = 18.85
+====================
+Current steps = 1469173
+
+Current episode = 28700
+Current mean reward = 14.96
+Best mean reward = 18.85
+====================
+Current steps = 1474610
+
+Current episode = 28800
+Current mean reward = 16.23
+Best mean reward = 18.85
+====================
+Current steps = 1479422
+
+Current episode = 28900
+Current mean reward = 15.35
+Best mean reward = 18.85
+====================
+Current steps = 1484158
+
+Current episode = 29000
+Current mean reward = 13.78
+Best mean reward = 18.85
+====================
+Current steps = 1489098
+
+Current episode = 29100
+Current mean reward = 14.74
+Best mean reward = 18.85
+====================
+Current steps = 1494251
+
+Current episode = 29200
+Current mean reward = 14.48
+Best mean reward = 18.85
+====================
+Current steps = 1499644
+
+Current episode = 29300
+Current mean reward = 16.24
+Best mean reward = 18.85
+====================
+Current steps = 1504636
+
+Current episode = 29400
+Current mean reward = 13.28
+Best mean reward = 18.85
+====================
+Current steps = 1509639
+
+Current episode = 29500
+Current mean reward = 15.24
+Best mean reward = 18.85
+====================
+Current steps = 1514654
+
+Current episode = 29600
+Current mean reward = 14.99
+Best mean reward = 18.85
+====================
+Current steps = 1520373
+
+Current episode = 29700
+Current mean reward = 15.1
+Best mean reward = 18.85
+====================
+Current steps = 1525537
+
+Current episode = 29800
+Current mean reward = 14.73
+Best mean reward = 18.85
+====================
+Current steps = 1530570
+
+Current episode = 29900
+Current mean reward = 14.77
+Best mean reward = 18.85
+====================
+Current steps = 1535553
+
+Current episode = 30000
+Current mean reward = 14.58
+Best mean reward = 18.85
+====================
+Current steps = 1540553
+
+Current episode = 30100
+Current mean reward = 14.3
+Best mean reward = 18.85
+====================
+Current steps = 1545434
+
+Current episode = 30200
+Current mean reward = 14.1
+Best mean reward = 18.85
+====================
+Current steps = 1550077
+
+Current episode = 30300
+Current mean reward = 14.44
+Best mean reward = 18.85
+====================
+Current steps = 1555781
+
+Current episode = 30400
+Current mean reward = 16.11
+Best mean reward = 18.85
+====================
+Current steps = 1560871
+
+Current episode = 30500
+Current mean reward = 15.11
+Best mean reward = 18.85
+====================
+Current steps = 1565612
+
+Current episode = 30600
+Current mean reward = 15.51
+Best mean reward = 18.85
+====================
+Current steps = 1570789
+
+Current episode = 30700
+Current mean reward = 16.17
+Best mean reward = 18.85
+====================
+Current steps = 1575399
+
+Current episode = 30800
+Current mean reward = 13.66
+Best mean reward = 18.85
+====================
+Current steps = 1580589
+
+Current episode = 30900
+Current mean reward = 14.64
+Best mean reward = 18.85
+====================
+Current steps = 1585829
+
+Current episode = 31000
+Current mean reward = 15.53
+Best mean reward = 18.85
+====================
+Current steps = 1591036
+
+Current episode = 31100
+Current mean reward = 15.36
+Best mean reward = 18.85
+====================
+Current steps = 1596028
+
+Current episode = 31200
+Current mean reward = 15.01
+Best mean reward = 18.85
+====================
+Current steps = 1601253
+
+Current episode = 31300
+Current mean reward = 15.05
+Best mean reward = 18.85
+====================
+Current steps = 1606574
+
+Current episode = 31400
+Current mean reward = 16.54
+Best mean reward = 18.85
+====================
+Current steps = 1611445
+
+Current episode = 31500
+Current mean reward = 14.97
+Best mean reward = 18.85
+====================
+Current steps = 1616605
+
+Current episode = 31600
+Current mean reward = 15.93
+Best mean reward = 18.85
+====================
+Current steps = 1621647
+
+Current episode = 31700
+Current mean reward = 15.92
+Best mean reward = 18.85
+====================
+Current steps = 1626720
+
+Current episode = 31800
+Current mean reward = 15.05
+Best mean reward = 18.85
+====================
+Current steps = 1632052
+
+Current episode = 31900
+Current mean reward = 14.43
+Best mean reward = 18.85
+====================
+Current steps = 1636739
+
+Current episode = 32000
+Current mean reward = 14.54
+Best mean reward = 18.85
+====================
+Current steps = 1641843
+
+Current episode = 32100
+Current mean reward = 15.43
+Best mean reward = 18.85
+====================
+Current steps = 1646704
+
+Current episode = 32200
+Current mean reward = 14.06
+Best mean reward = 18.85
+====================
+Current steps = 1651676
+
+Current episode = 32300
+Current mean reward = 14.49
+Best mean reward = 18.85
+====================
+Current steps = 1656439
+
+Current episode = 32400
+Current mean reward = 14.97
+Best mean reward = 18.85
+====================
+Current steps = 1661571
+
+Current episode = 32500
+Current mean reward = 14.44
+Best mean reward = 18.85
+====================
+Current steps = 1666473
+
+Current episode = 32600
+Current mean reward = 16.26
+Best mean reward = 18.85
+====================
+Current steps = 1671323
+
+Current episode = 32700
+Current mean reward = 14.92
+Best mean reward = 18.85
+====================
+Current steps = 1676791
+
+Current episode = 32800
+Current mean reward = 15.28
+Best mean reward = 18.85
+====================
+Current steps = 1681602
+
+Current episode = 32900
+Current mean reward = 14.53
+Best mean reward = 18.85
+====================
+Current steps = 1686773
+
+Current episode = 33000
+Current mean reward = 14.17
+Best mean reward = 18.85
+====================
+Current steps = 1692211
+
+Current episode = 33100
+Current mean reward = 16.11
+Best mean reward = 18.85
+====================
+Current steps = 1697895
+
+Current episode = 33200
+Current mean reward = 16.48
+Best mean reward = 18.85
+====================
+Current steps = 1703222
+
+Current episode = 33300
+Current mean reward = 15.01
+Best mean reward = 18.85
+====================
+Current steps = 1708711
+
+Current episode = 33400
+Current mean reward = 15.84
+Best mean reward = 18.85
+====================
+Current steps = 1713988
+
+Current episode = 33500
+Current mean reward = 14.98
+Best mean reward = 18.85
+====================
+Current steps = 1719646
+
+Current episode = 33600
+Current mean reward = 16.89
+Best mean reward = 18.85
+====================
+Current steps = 1724908
+
+Current episode = 33700
+Current mean reward = 15.52
+Best mean reward = 18.85
+====================
+Current steps = 1730671
+
+Current episode = 33800
+Current mean reward = 16.27
+Best mean reward = 18.85
+====================
+Current steps = 1736029
+
+Current episode = 33900
+Current mean reward = 16.29
+Best mean reward = 18.85
+====================
+Current steps = 1740863
+
+Current episode = 34000
+Current mean reward = 14.67
+Best mean reward = 18.85
+====================
+Current steps = 1746253
+
+Current episode = 34100
+Current mean reward = 16.66
+Best mean reward = 18.85
+====================
+Current steps = 1751439
+
+Current episode = 34200
+Current mean reward = 16.16
+Best mean reward = 18.85
+====================
+Current steps = 1756699
+
+Current episode = 34300
+Current mean reward = 16.82
+Best mean reward = 18.85
+====================
+Current steps = 1761699
+
+Current episode = 34400
+Current mean reward = 16.04
+Best mean reward = 18.85
+====================
+Current steps = 1766627
+
+Current episode = 34500
+Current mean reward = 17.12
+Best mean reward = 18.85
+====================
+Current steps = 1771405
+
+Current episode = 34600
+Current mean reward = 15.21
+Best mean reward = 18.85
+====================
+Current steps = 1776645
+
+Current episode = 34700
+Current mean reward = 16.22
+Best mean reward = 18.85
+====================
+Current steps = 1781677
+
+Current episode = 34800
+Current mean reward = 15.73
+Best mean reward = 18.85
+====================
+Current steps = 1786651
+
+Current episode = 34900
+Current mean reward = 15.45
+Best mean reward = 18.85
+====================
+Current steps = 1791529
+
+Current episode = 35000
+Current mean reward = 15.27
+Best mean reward = 18.85
+====================
+Current steps = 1796438
+
+Current episode = 35100
+Current mean reward = 15.31
+Best mean reward = 18.85
+====================
+Current steps = 1801087
+
+Current episode = 35200
+Current mean reward = 15.23
+Best mean reward = 18.85
+====================
+Current steps = 1805727
+
+Current episode = 35300
+Current mean reward = 14.87
+Best mean reward = 18.85
+====================
+Current steps = 1810340
+
+Current episode = 35400
+Current mean reward = 14.39
+Best mean reward = 18.85
+====================
+Current steps = 1815071
+
+Current episode = 35500
+Current mean reward = 14.01
+Best mean reward = 18.85
+====================
+Current steps = 1820240
+
+Current episode = 35600
+Current mean reward = 15.31
+Best mean reward = 18.85
+====================
+Current steps = 1825641
+
+Current episode = 35700
+Current mean reward = 16.03
+Best mean reward = 18.85
+====================
+Current steps = 1830757
+
+Current episode = 35800
+Current mean reward = 16.07
+Best mean reward = 18.85
+====================
+Current steps = 1835741
+
+Current episode = 35900
+Current mean reward = 15.99
+Best mean reward = 18.85
+====================
+Current steps = 1840377
+
+Current episode = 36000
+Current mean reward = 15.68
+Best mean reward = 18.85
+====================
+Current steps = 1845384
+
+Current episode = 36100
+Current mean reward = 16.4
+Best mean reward = 18.85
+====================
+Current steps = 1850203
+
+Current episode = 36200
+Current mean reward = 14.99
+Best mean reward = 18.85
+====================
+Current steps = 1854857
+
+Current episode = 36300
+Current mean reward = 13.99
+Best mean reward = 18.85
+====================
+Current steps = 1860187
+
+Current episode = 36400
+Current mean reward = 15.88
+Best mean reward = 18.85
+====================
+Current steps = 1865589
+
+Current episode = 36500
+Current mean reward = 15.42
+Best mean reward = 18.85
+====================
+Current steps = 1870568
+
+Current episode = 36600
+Current mean reward = 13.71
+Best mean reward = 18.85
+====================
+Current steps = 1875969
+
+Current episode = 36700
+Current mean reward = 15.38
+Best mean reward = 18.85
+====================
+Current steps = 1881249
+
+Current episode = 36800
+Current mean reward = 16.11
+Best mean reward = 18.85
+====================
+Current steps = 1886161
+
+Current episode = 36900
+Current mean reward = 15.17
+Best mean reward = 18.85
+====================
+Current steps = 1891686
+
+Current episode = 37000
+Current mean reward = 17.66
+Best mean reward = 18.85
+====================
+Current steps = 1897095
+
+Current episode = 37100
+Current mean reward = 18.18
+Best mean reward = 18.85
+====================
+Current steps = 1902333
+
+Current episode = 37200
+Current mean reward = 16.83
+Best mean reward = 18.85
+====================
+Current steps = 1907198
+
+Current episode = 37300
+Current mean reward = 15.6
+Best mean reward = 18.85
+====================
+Current steps = 1912296
+
+Current episode = 37400
+Current mean reward = 16.57
+Best mean reward = 18.85
+====================
+Current steps = 1917041
+
+Current episode = 37500
+Current mean reward = 14.56
+Best mean reward = 18.85
+====================
+Current steps = 1922079
+
+Current episode = 37600
+Current mean reward = 16.33
+Best mean reward = 18.85
+====================
+Current steps = 1926796
+
+Current episode = 37700
+Current mean reward = 14.92
+Best mean reward = 18.85
+====================
+Current steps = 1932101
+
+Current episode = 37800
+Current mean reward = 16.22
+Best mean reward = 18.85
+====================
+Current steps = 1937438
+
+Current episode = 37900
+Current mean reward = 16.98
+Best mean reward = 18.85
+====================
+Current steps = 1942210
+
+Current episode = 38000
+Current mean reward = 16.01
+Best mean reward = 18.85
+====================
+Current steps = 1946683
+
+Current episode = 38100
+Current mean reward = 15.27
+Best mean reward = 18.85
+====================
+Current steps = 1951379
+
+Current episode = 38200
+Current mean reward = 14.27
+Best mean reward = 18.85
+====================
+Current steps = 1956259
+
+Current episode = 38300
+Current mean reward = 16.19
+Best mean reward = 18.85
+====================
+Current steps = 1961300
+
+Current episode = 38400
+Current mean reward = 15.12
+Best mean reward = 18.85
+====================
+Current steps = 1966417
+
+Current episode = 38500
+Current mean reward = 15.57
+Best mean reward = 18.85
+====================
+Current steps = 1971560
+
+Current episode = 38600
+Current mean reward = 16.13
+Best mean reward = 18.85
+====================
+Current steps = 1976775
+
+Current episode = 38700
+Current mean reward = 18.1
+Best mean reward = 18.85
+====================
+Current steps = 1981923
+
+Current episode = 38800
+Current mean reward = 16.5
+Best mean reward = 18.85
+====================
+Current steps = 1986855
+
+Current episode = 38900
+Current mean reward = 14.97
+Best mean reward = 18.85
+====================
+Current steps = 1991844
+
+Current episode = 39000
+Current mean reward = 16.32
+Best mean reward = 18.85
+====================
+Current steps = 1997854
+
+Current episode = 39100
+Current mean reward = 19.33
+Best mean reward = 19.12
+====================
+Current steps = 2003124
+
+Current episode = 39200
+Current mean reward = 16.9
+Best mean reward = 19.33
+====================
+Current steps = 2008118
+
+Current episode = 39300
+Current mean reward = 16.06
+Best mean reward = 19.33
+====================
+Current steps = 2013224
+
+Current episode = 39400
+Current mean reward = 16.24
+Best mean reward = 19.33
+====================
+Current steps = 2018268
+
+Current episode = 39500
+Current mean reward = 15.99
+Best mean reward = 19.33
+====================
+Current steps = 2023243
+
+Current episode = 39600
+Current mean reward = 14.46
+Best mean reward = 19.33
+====================
+Current steps = 2028257
+
+Current episode = 39700
+Current mean reward = 16.8
+Best mean reward = 19.33
+====================
+Current steps = 2033460
+
+Current episode = 39800
+Current mean reward = 16.43
+Best mean reward = 19.33
+====================
+Current steps = 2038508
+
+Current episode = 39900
+Current mean reward = 16.39
+Best mean reward = 19.33
+====================
+Current steps = 2043200
+
+Current episode = 40000
+Current mean reward = 14.4
+Best mean reward = 19.33
+====================
+Current steps = 2048165
+
+Current episode = 40100
+Current mean reward = 15.67
+Best mean reward = 19.33
+====================
+Current steps = 2052947
+
+Current episode = 40200
+Current mean reward = 15.2
+Best mean reward = 19.33
+====================
+Current steps = 2058238
+
+Current episode = 40300
+Current mean reward = 16.7
+Best mean reward = 19.33
+====================
+Current steps = 2063494
+
+Current episode = 40400
+Current mean reward = 17.34
+Best mean reward = 19.33
+====================
+Current steps = 2068360
+
+Current episode = 40500
+Current mean reward = 15.25
+Best mean reward = 19.33
+====================
+Current steps = 2073518
+
+Current episode = 40600
+Current mean reward = 15.55
+Best mean reward = 19.33
+====================
+Current steps = 2078236
+
+Current episode = 40700
+Current mean reward = 14.86
+Best mean reward = 19.33
+====================
+Current steps = 2083094
+
+Current episode = 40800
+Current mean reward = 15.09
+Best mean reward = 19.33
+====================
+Current steps = 2088026
+
+Current episode = 40900
+Current mean reward = 15.16
+Best mean reward = 19.33
+====================
+Current steps = 2093172
+
+Current episode = 41000
+Current mean reward = 14.92
+Best mean reward = 19.33
+====================
+Current steps = 2098156
+
+Current episode = 41100
+Current mean reward = 15.02
+Best mean reward = 19.33
+====================
+Current steps = 2102804
+
+Current episode = 41200
+Current mean reward = 13.23
+Best mean reward = 19.33
+====================
+Current steps = 2107852
+
+Current episode = 41300
+Current mean reward = 15.98
+Best mean reward = 19.33
+====================
+Current steps = 2112647
+
+Current episode = 41400
+Current mean reward = 15.72
+Best mean reward = 19.33
+====================
+Current steps = 2118090
+
+Current episode = 41500
+Current mean reward = 16.42
+Best mean reward = 19.33
+====================
+Current steps = 2123375
+
+Current episode = 41600
+Current mean reward = 16.42
+Best mean reward = 19.33
+====================
+Current steps = 2128638
+
+Current episode = 41700
+Current mean reward = 16.38
+Best mean reward = 19.33
+====================
+Current steps = 2133831
+
+Current episode = 41800
+Current mean reward = 15.78
+Best mean reward = 19.33
+====================
+Current steps = 2138587
+
+Current episode = 41900
+Current mean reward = 14.1
+Best mean reward = 19.33
+====================
+Current steps = 2143873
+
+Current episode = 42000
+Current mean reward = 14.55
+Best mean reward = 19.33
+====================
+Current steps = 2148839
+
+Current episode = 42100
+Current mean reward = 16.46
+Best mean reward = 19.33
+====================
+Current steps = 2153742
+
+Current episode = 42200
+Current mean reward = 15.68
+Best mean reward = 19.33
+====================
+Current steps = 2159003
+
+Current episode = 42300
+Current mean reward = 16.26
+Best mean reward = 19.33
+====================
+Current steps = 2164079
+
+Current episode = 42400
+Current mean reward = 15.4
+Best mean reward = 19.33
+====================
+Current steps = 2169210
+
+Current episode = 42500
+Current mean reward = 15.82
+Best mean reward = 19.33
+====================
+Current steps = 2174745
+
+Current episode = 42600
+Current mean reward = 16.42
+Best mean reward = 19.33
+====================
+Current steps = 2179924
+
+Current episode = 42700
+Current mean reward = 15.77
+Best mean reward = 19.33
+====================
+Current steps = 2185499
+
+Current episode = 42800
+Current mean reward = 15.89
+Best mean reward = 19.33
+====================
+Current steps = 2190975
+
+Current episode = 42900
+Current mean reward = 18.09
+Best mean reward = 19.33
+====================
+Current steps = 2196272
+
+Current episode = 43000
+Current mean reward = 16.83
+Best mean reward = 19.33
+====================
+Current steps = 2201652
+
+Current episode = 43100
+Current mean reward = 18.09
+Best mean reward = 19.33
+====================
+Current steps = 2206874
+
+Current episode = 43200
+Current mean reward = 16.84
+Best mean reward = 19.33
+====================
+Current steps = 2211925
+
+Current episode = 43300
+Current mean reward = 15.69
+Best mean reward = 19.33
+====================
+Current steps = 2216804
+
+Current episode = 43400
+Current mean reward = 15.67
+Best mean reward = 19.33
+====================
+Current steps = 2221935
+
+Current episode = 43500
+Current mean reward = 16.54
+Best mean reward = 19.33
+====================
+Current steps = 2226814
+
+Current episode = 43600
+Current mean reward = 15.04
+Best mean reward = 19.33
+====================
+Current steps = 2231830
+
+Current episode = 43700
+Current mean reward = 15.82
+Best mean reward = 19.33
+====================
+Current steps = 2237105
+
+Current episode = 43800
+Current mean reward = 16.84
+Best mean reward = 19.33
+====================
+Current steps = 2242258
+
+Current episode = 43900
+Current mean reward = 15.39
+Best mean reward = 19.33
+====================
+Current steps = 2247747
+
+Current episode = 44000
+Current mean reward = 16.56
+Best mean reward = 19.33
+====================
+Current steps = 2252817
+
+Current episode = 44100
+Current mean reward = 16.66
+Best mean reward = 19.33
+====================
+Current steps = 2257583
+
+Current episode = 44200
+Current mean reward = 16.26
+Best mean reward = 19.33
+====================
+Current steps = 2262618
+
+Current episode = 44300
+Current mean reward = 15.15
+Best mean reward = 19.33
+====================
+Current steps = 2268070
+
+Current episode = 44400
+Current mean reward = 16.4
+Best mean reward = 19.33
+====================
+Current steps = 2273953
+
+Current episode = 44500
+Current mean reward = 18.04
+Best mean reward = 19.33
+====================
+Current steps = 2279266
+
+Current episode = 44600
+Current mean reward = 16.38
+Best mean reward = 19.33
+====================
+Current steps = 2284416
+
+Current episode = 44700
+Current mean reward = 17.03
+Best mean reward = 19.33
+====================
+Current steps = 2289727
+
+Current episode = 44800
+Current mean reward = 16.53
+Best mean reward = 19.33
+====================
+Current steps = 2295031
+
+Current episode = 44900
+Current mean reward = 16.65
+Best mean reward = 19.33
+====================
+Current steps = 2299964
+
+Current episode = 45000
+Current mean reward = 15.54
+Best mean reward = 19.33
+====================
+Current steps = 2305271
+
+Current episode = 45100
+Current mean reward = 17.4
+Best mean reward = 19.33
+====================
+Current steps = 2310538
+
+Current episode = 45200
+Current mean reward = 16.58
+Best mean reward = 19.33
+====================
+Current steps = 2315501
+
+Current episode = 45300
+Current mean reward = 15.83
+Best mean reward = 19.33
+====================
+Current steps = 2321270
+
+Current episode = 45400
+Current mean reward = 17.78
+Best mean reward = 19.33
+====================
+Current steps = 2326589
+
+Current episode = 45500
+Current mean reward = 17.41
+Best mean reward = 19.33
+====================
+Current steps = 2331900
+
+Current episode = 45600
+Current mean reward = 16.59
+Best mean reward = 19.33
+====================
+Current steps = 2337364
+
+Current episode = 45700
+Current mean reward = 15.81
+Best mean reward = 19.33
+====================
+Current steps = 2342806
+
+Current episode = 45800
+Current mean reward = 17.78
+Best mean reward = 19.33
+====================
+Current steps = 2348047
+
+Current episode = 45900
+Current mean reward = 16.11
+Best mean reward = 19.33
+====================
+Current steps = 2353453
+
+Current episode = 46000
+Current mean reward = 16.93
+Best mean reward = 19.33
+====================
+Current steps = 2359204
+
+Current episode = 46100
+Current mean reward = 18.37
+Best mean reward = 19.33
+====================
+Current steps = 2364458
+
+Current episode = 46200
+Current mean reward = 17.53
+Best mean reward = 19.33
+====================
+Current steps = 2369820
+
+Current episode = 46300
+Current mean reward = 16.67
+Best mean reward = 19.33
+====================
+Current steps = 2374891
+
+Current episode = 46400
+Current mean reward = 15.25
+Best mean reward = 19.33
+====================
+Current steps = 2380355
+
+Current episode = 46500
+Current mean reward = 17.78
+Best mean reward = 19.33
+====================
+Current steps = 2385550
+
+Current episode = 46600
+Current mean reward = 15.92
+Best mean reward = 19.33
+====================
+Current steps = 2391166
+
+Current episode = 46700
+Current mean reward = 17.16
+Best mean reward = 19.33
+====================
+Current steps = 2396685
+
+Current episode = 46800
+Current mean reward = 17.23
+Best mean reward = 19.33
+====================
+Current steps = 2401990
+
+Current episode = 46900
+Current mean reward = 16.76
+Best mean reward = 19.33
+====================
+Current steps = 2407365
+
+Current episode = 47000
+Current mean reward = 16.49
+Best mean reward = 19.33
+====================
+Current steps = 2412989
+
+Current episode = 47100
+Current mean reward = 17.92
+Best mean reward = 19.33
+====================
+Current steps = 2417908
+
+Current episode = 47200
+Current mean reward = 15.03
+Best mean reward = 19.33
+====================
+Current steps = 2423026
+
+Current episode = 47300
+Current mean reward = 15.77
+Best mean reward = 19.33
+====================
+Current steps = 2428335
+
+Current episode = 47400
+Current mean reward = 17.5
+Best mean reward = 19.33
+====================
+Current steps = 2433480
+
+Current episode = 47500
+Current mean reward = 16.34
+Best mean reward = 19.33
+====================
+Current steps = 2438912
+
+Current episode = 47600
+Current mean reward = 17.66
+Best mean reward = 19.33
+====================
+Current steps = 2444446
+
+Current episode = 47700
+Current mean reward = 16.28
+Best mean reward = 19.33
+====================
+Current steps = 2450047
+
+Current episode = 47800
+Current mean reward = 16.84
+Best mean reward = 19.33
+====================
+Current steps = 2455663
+
+Current episode = 47900
+Current mean reward = 16.78
+Best mean reward = 19.33
+====================
+Current steps = 2461176
+
+Current episode = 48000
+Current mean reward = 17.23
+Best mean reward = 19.33
+====================
+Current steps = 2467104
+
+Current episode = 48100
+Current mean reward = 17.73
+Best mean reward = 19.33
+====================
+Current steps = 2472479
+
+Current episode = 48200
+Current mean reward = 17.66
+Best mean reward = 19.33
+====================
+Current steps = 2477757
+
+Current episode = 48300
+Current mean reward = 15.32
+Best mean reward = 19.33
+====================
+Current steps = 2483166
+
+Current episode = 48400
+Current mean reward = 16.0
+Best mean reward = 19.33
+====================
+Current steps = 2488910
+
+Current episode = 48500
+Current mean reward = 17.16
+Best mean reward = 19.33
+====================
+Current steps = 2494445
+
+Current episode = 48600
+Current mean reward = 15.78
+Best mean reward = 19.33
+====================
+Current steps = 2499939
+
+Current episode = 48700
+Current mean reward = 14.18
+Best mean reward = 19.33
+====================
+Current steps = 2505474
+
+Current episode = 48800
+Current mean reward = 15.84
+Best mean reward = 19.33
+====================
+Current steps = 2510767
+
+Current episode = 48900
+Current mean reward = 15.9
+Best mean reward = 19.33
+====================
+Current steps = 2516010
+
+Current episode = 49000
+Current mean reward = 15.17
+Best mean reward = 19.33
+====================
+Current steps = 2521471
+
+Current episode = 49100
+Current mean reward = 16.69
+Best mean reward = 19.33
+====================
+Current steps = 2527000
+
+Current episode = 49200
+Current mean reward = 15.84
+Best mean reward = 19.33
+====================
+Current steps = 2532732
+
+Current episode = 49300
+Current mean reward = 16.86
+Best mean reward = 19.33
+====================
+Current steps = 2538009
+
+Current episode = 49400
+Current mean reward = 16.6
+Best mean reward = 19.33
+====================
+Current steps = 2543233
+
+Current episode = 49500
+Current mean reward = 15.65
+Best mean reward = 19.33
+====================
+Current steps = 2548465
+
+Current episode = 49600
+Current mean reward = 15.93
+Best mean reward = 19.33
+====================
+Current steps = 2553835
+
+Current episode = 49700
+Current mean reward = 15.88
+Best mean reward = 19.33
+====================
+Current steps = 2559068
+
+Current episode = 49800
+Current mean reward = 16.02
+Best mean reward = 19.33
+====================
+Current steps = 2564700
+
+Current episode = 49900
+Current mean reward = 16.6
+Best mean reward = 19.33
+====================
+Current steps = 2570011
+
+Current episode = 50000
+Current mean reward = 15.15
+Best mean reward = 19.33
